@@ -1,0 +1,3420 @@
+0=> | 
+Array
+(
+    [kind] => track
+    [id] => 330952319
+    [created_at] => 2017/06/30 17:30:16 +0000
+    [user_id] => 8553751
+    [duration] => 242700
+    [commentable] => 1
+    [state] => finished
+    [original_content_size] => 46585376
+    [last_modified] => 2017/07/03 03:00:14 +0000
+    [sharing] => public
+    [tag_list] => Subtact "Call Me" EDM Electronic Dance Music Bass Monstercat Melodic Upbeat
+    [permalink] => subtact-call-me
+    [streamable] => 1
+    [embeddable_by] => all
+    [downloadable] => 
+    [purchase_url] => https://Monstercat.lnk.to/CallMe
+    [label_id] => 
+    [purchase_title] => 🎧  Stream / Download
+    [genre] => Future Bass
+    [title] => Subtact - Call Me
+    [description] => 🎧  Support on all platforms: https://Monstercat.lnk.to/CallMe
+
+▼ Follow Monstercat
+Snapchat: https://www.snapchat.com/add/monstercat
+YouTube: http://www.youtube.com/Monstercat
+Spotify: http://monster.cat/1hGrCWk
+Facebook: http://facebook.com/Monstercat
+Twitter: http://twitter.com/Monstercat
+Instagram: http://instagram.com/monstercat
+Vine: https://vine.co/monstercat
+SoundCloud: http://soundcloud.com/Monstercat
+Google+: https://plus.google.com/+Monstercat
+Monstercat FM: http://live.monstercat.com
+
+💥  Follow Subtact
+Facebook: http://www.facebook.com/subtact
+Twitter: http://twitter.com/subtact
+Soundcloud: https://soundcloud.com/subtact
+Youtube: http://www.youtube.com/SubtactMusic
+Instagram: http://instagram.com/mortathemarmot
+
+Genre: Future Bass
+
+▼ Want some new Merchandise?
+http://monster.cat/MonstercatShop
+    [label_name] => Monstercat
+    [release] => 
+    [track_type] => 
+    [key_signature] => 
+    [isrc] => 
+    [video_url] => 
+    [bpm] => 
+    [release_year] => 2017
+    [release_month] => 6
+    [release_day] => 30
+    [original_format] => wav
+    [license] => all-rights-reserved
+    [uri] => https://api.soundcloud.com/tracks/330952319
+    [user] => Array
+        (
+            [id] => 8553751
+            [kind] => user
+            [permalink] => monstercat
+            [username] => Monstercat
+            [last_modified] => 2017/05/16 19:14:09 +0000
+            [uri] => https://api.soundcloud.com/users/8553751
+            [permalink_url] => http://soundcloud.com/monstercat
+            [avatar_url] => https://i1.sndcdn.com/avatars-000309637915-o6othx-large.jpg
+        )
+
+    [attachments_uri] => https://api.soundcloud.com/tracks/330952319/attachments
+    [permalink_url] => http://soundcloud.com/monstercat/subtact-call-me
+    [artwork_url] => https://i1.sndcdn.com/artworks-000231385515-ujp1t5-large.jpg
+    [waveform_url] => https://w1.sndcdn.com/7Mv1908vItiO_m.png
+    [stream_url] => https://api.soundcloud.com/tracks/330952319/stream
+    [playback_count] => 1168
+    [download_count] => 0
+    [favoritings_count] => 4705
+    [comment_count] => 61
+)
+1=> | 
+Array
+(
+    [kind] => track
+    [id] => 329464185
+    [created_at] => 2017/06/22 08:52:20 +0000
+    [user_id] => 162170283
+    [duration] => 234549
+    [commentable] => 1
+    [state] => finished
+    [original_content_size] => 9533678
+    [last_modified] => 2017/06/29 20:15:09 +0000
+    [sharing] => public
+    [tag_list] => 
+    [permalink] => diskord-anything-you-want-franky-nuts-remix-1
+    [streamable] => 1
+    [embeddable_by] => all
+    [downloadable] => 
+    [purchase_url] => https://www.hive.co/l/2pyvi
+    [label_id] => 
+    [purchase_title] => Download
+    [genre] => Dance & EDM
+    [title] => DISKORD - Anything You Want (Franky Nuts Remix)
+    [description] => Grab your free download now of my new remix of DISKORD's 'Anything You Want' - https://www.hive.co/l/2pyvi
+
+Follow Franky Nuts:
+Facebook: http://bit.ly/FrankyNutsFB
+Twitter: http://bit.ly/FrankyNutsTW
+Instagram: http://bit.ly/FrankyNutsIN
+Soundcloud: http://bit.ly/FrankyNutsSC
+
+Follow Circus Records:
+Facebook: http://bit.ly/CircusFbook
+Twitter: http://bit.ly/CircusTwitter
+Soundcloud: http://bit.ly/CircusSoundcloud
+Instagram: http://bit.ly/CircusInstagram
+Beatport: http://bit.ly/CircusBeatport
+    [label_name] => Circus Records
+    [release] => 
+    [track_type] => 
+    [key_signature] => 
+    [isrc] => 
+    [video_url] => 
+    [bpm] => 
+    [release_year] => 2017
+    [release_month] => 6
+    [release_day] => 22
+    [original_format] => mp3
+    [license] => all-rights-reserved
+    [uri] => https://api.soundcloud.com/tracks/329464185
+    [user] => Array
+        (
+            [id] => 162170283
+            [kind] => user
+            [permalink] => frankynuts
+            [username] => FRANKY NUTS
+            [last_modified] => 2017/06/22 08:52:32 +0000
+            [uri] => https://api.soundcloud.com/users/162170283
+            [permalink_url] => http://soundcloud.com/frankynuts
+            [avatar_url] => https://i1.sndcdn.com/avatars-000296312311-c9svv5-large.jpg
+        )
+
+    [attachments_uri] => https://api.soundcloud.com/tracks/329464185/attachments
+    [permalink_url] => http://soundcloud.com/frankynuts/diskord-anything-you-want-franky-nuts-remix-1
+    [artwork_url] => https://i1.sndcdn.com/artworks-000229991529-45lqyd-large.jpg
+    [waveform_url] => https://w1.sndcdn.com/MPolk8F96ZEP_m.png
+    [stream_url] => https://api.soundcloud.com/tracks/329464185/stream
+    [playback_count] => 299
+    [download_count] => 0
+    [favoritings_count] => 1858
+    [comment_count] => 47
+)
+2=> | 
+Array
+(
+    [kind] => track
+    [id] => 287201834
+    [created_at] => 2016/10/11 19:22:44 +0000
+    [user_id] => 28034
+    [duration] => 273945
+    [commentable] => 1
+    [state] => finished
+    [original_content_size] => 13247062
+    [last_modified] => 2017/07/04 21:27:51 +0000
+    [sharing] => public
+    [tag_list] => DnB DrumNBass "DNB Remix" "Free Music" "Free Download" "Free Track" "Free Bootleg" "Jump Up" "Jump Up Drum & Bass" "Macky Gee" Phantasy Dj Mc Rave Jungle Zara "Aint My Fault" Skibadee Shabba "Harry Shotta " Stormin "SaSaSaS " Drums Bass "Drum & Bass"
+    [permalink] => zara-larsson-aint-my-fault-macky-gee-x-phantasy-bootleg
+    [streamable] => 1
+    [embeddable_by] => all
+    [downloadable] => 1
+    [purchase_url] => 
+    [label_id] => 
+    [purchase_title] => 
+    [genre] => Drum & Bass
+    [title] => Zara Larsson - Ain't My Fault (Macky Gee X Phantasy Bootleg)
+    [description] => Free Bootleg Download of Zara Larsson - Aint My Fault by Macky Gee x DJ Phantasy.
+
+Get it, Share It, Play it LOUD, Annoy the Neighbours with it & Melt Your Friends Face Off With It.
+    [label_name] => 
+    [release] => 
+    [track_type] => 
+    [key_signature] => 
+    [isrc] => 
+    [video_url] => 
+    [bpm] => 
+    [release_year] => 
+    [release_month] => 
+    [release_day] => 
+    [original_format] => mp3
+    [license] => all-rights-reserved
+    [uri] => https://api.soundcloud.com/tracks/287201834
+    [user] => Array
+        (
+            [id] => 28034
+            [kind] => user
+            [permalink] => phantasy
+            [username] => DJ Phantasy
+            [last_modified] => 2017/04/17 19:40:51 +0000
+            [uri] => https://api.soundcloud.com/users/28034
+            [permalink_url] => http://soundcloud.com/phantasy
+            [avatar_url] => https://i1.sndcdn.com/avatars-000066116454-5raub4-large.jpg
+        )
+
+    [attachments_uri] => https://api.soundcloud.com/tracks/287201834/attachments
+    [permalink_url] => http://soundcloud.com/phantasy/zara-larsson-aint-my-fault-macky-gee-x-phantasy-bootleg
+    [artwork_url] => https://i1.sndcdn.com/artworks-000187751799-o9s4yg-large.jpg
+    [waveform_url] => https://w1.sndcdn.com/sb32ptz34MSR_m.png
+    [stream_url] => https://api.soundcloud.com/tracks/287201834/stream
+    [download_url] => https://api.soundcloud.com/tracks/287201834/download
+    [playback_count] => 424872
+    [download_count] => 26593
+    [favoritings_count] => 47793
+    [comment_count] => 447
+)
+3=> | 
+Array
+(
+    [kind] => track
+    [id] => 329344874
+    [created_at] => 2017/06/21 16:01:45 +0000
+    [user_id] => 134799724
+    [duration] => 214746
+    [commentable] => 1
+    [state] => finished
+    [original_content_size] => 56930240
+    [last_modified] => 2017/06/21 16:01:48 +0000
+    [sharing] => public
+    [tag_list] => 
+    [permalink] => stones
+    [streamable] => 1
+    [embeddable_by] => all
+    [downloadable] => 
+    [purchase_url] => http://EmmitFenn.com
+    [label_id] => 
+    [purchase_title] => Experience
+    [genre] => Electronic
+    [title] => Stones
+    [description] => Stream on Spotify: http://spoti.fi/2rVqtkg
+Stream on Apple Music: http://apple.co/2rCzAqF
+    [label_name] => 
+    [release] => 
+    [track_type] => 
+    [key_signature] => 
+    [isrc] => 
+    [video_url] => 
+    [bpm] => 
+    [release_year] => 
+    [release_month] => 
+    [release_day] => 
+    [original_format] => wav
+    [license] => all-rights-reserved
+    [uri] => https://api.soundcloud.com/tracks/329344874
+    [user] => Array
+        (
+            [id] => 134799724
+            [kind] => user
+            [permalink] => emmitfenn
+            [username] => Emmit Fenn
+            [last_modified] => 2017/07/03 04:39:25 +0000
+            [uri] => https://api.soundcloud.com/users/134799724
+            [permalink_url] => http://soundcloud.com/emmitfenn
+            [avatar_url] => https://i1.sndcdn.com/avatars-000321798050-0mzzjf-large.jpg
+        )
+
+    [attachments_uri] => https://api.soundcloud.com/tracks/329344874/attachments
+    [permalink_url] => http://soundcloud.com/emmitfenn/stones
+    [artwork_url] => https://i1.sndcdn.com/artworks-000229786895-r0zves-large.jpg
+    [waveform_url] => https://w1.sndcdn.com/vJyQAviTgkIT_m.png
+    [stream_url] => https://api.soundcloud.com/tracks/329344874/stream
+    [playback_count] => 1361
+    [download_count] => 0
+    [favoritings_count] => 1914
+    [comment_count] => 20
+)
+4=> | 
+Array
+(
+    [kind] => track
+    [id] => 157669758
+    [created_at] => 2014/07/07 15:26:05 +0000
+    [user_id] => 856062
+    [duration] => 227678
+    [commentable] => 1
+    [state] => finished
+    [original_content_size] => 60221158
+    [last_modified] => 2017/06/04 01:11:23 +0000
+    [sharing] => public
+    [tag_list] => "kill the noise" "fatman scoop" "michael angelakos" "valentino khan" "ape drums" "milo and otis" "flux pavilion" recess
+    [permalink] => skrillex-kill-the-noise-feat
+    [streamable] => 1
+    [embeddable_by] => all
+    [downloadable] => 
+    [purchase_url] => https://itunes.apple.com/wa/artist/skrillex-and-kill-the-noise/id895382539?ign-mpt=uo%3D4
+    [label_id] => 
+    [purchase_title] => 
+    [genre] => skrillex
+    [title] => Skrillex & Kill The Noise Feat. Fatman Scoop and Michael Angelakos - Recess (Flux Pavilion Remix)
+    [description] => Support the "Recess" Remixes: 
+Spotify: http://smarturl.it/RecessRmxStream 
+iTunes:  http://smarturl.it/RecessRemixes 
+Beatport: http://bgbe.at/RecessRmxBeatport 
+
+Follow Flux Pavilion:
+http://circus-records.co.uk/
+https://fb.com/fluxpavilion
+https://twitter.com/fluxpavilion
+https://youtube.com/user/CircusRecords
+https://soundcloud.com/flux-pavilion
+
+Follow Skrillex:
+http://skrillex.com
+http://fb.com/skrillex
+http://twitter.com/skrillex
+http://instagram.com/skrillex
+http://skrillex.tumblr.com
+
+Follow Kill The Noise:
+http://killthenoise.com/
+http://fb.com/killthenoise
+http://twitter.com/killthenoise
+http://instagram.com/killthenoise
+http://youtube.com/killnoisekill
+
+Follow Fatman Scoop:
+http://fatmanscoop.com/‎
+http://fb.com/fatmanscoop
+http://twitter.com/fatmanscoop
+
+Follow Michael Angelakos & Passion Pit:
+http://passionpitmusic.com/‎
+http://fb.com/passionpitofficial
+http://twitter.com/passionpit
+http://instagram.com/passionpit
+http://youtube.com/passionpitVEVO
+
+http://owsla.com
+http://wearebigbeat.com
+    [label_name] => OWSLA/Big Beat
+    [release] => 
+    [track_type] => 
+    [key_signature] => 
+    [isrc] => 
+    [video_url] => 
+    [bpm] => 
+    [release_year] => 2014
+    [release_month] => 7
+    [release_day] => 7
+    [original_format] => wav
+    [license] => all-rights-reserved
+    [uri] => https://api.soundcloud.com/tracks/157669758
+    [user] => Array
+        (
+            [id] => 856062
+            [kind] => user
+            [permalink] => skrillex
+            [username] => Skrillex
+            [last_modified] => 2017/05/05 21:14:00 +0000
+            [uri] => https://api.soundcloud.com/users/856062
+            [permalink_url] => http://soundcloud.com/skrillex
+            [avatar_url] => https://i1.sndcdn.com/avatars-000138955484-r3yxsu-large.jpg
+        )
+
+    [attachments_uri] => https://api.soundcloud.com/tracks/157669758/attachments
+    [permalink_url] => http://soundcloud.com/skrillex/skrillex-kill-the-noise-feat
+    [artwork_url] => https://i1.sndcdn.com/artworks-000084490278-n530cd-large.jpg
+    [waveform_url] => https://w1.sndcdn.com/FyzwsDyPvRyW_m.png
+    [stream_url] => https://api.soundcloud.com/tracks/157669758/stream
+    [playback_count] => 1564472
+    [download_count] => 0
+    [favoritings_count] => 34226
+    [comment_count] => 1235
+)
+5=> | 
+Array
+(
+    [kind] => track
+    [id] => 296514356
+    [created_at] => 2016/12/06 15:29:22 +0000
+    [user_id] => 108856420
+    [duration] => 205420
+    [commentable] => 1
+    [state] => finished
+    [original_content_size] => 36220852
+    [last_modified] => 2017/07/02 18:16:33 +0000
+    [sharing] => public
+    [tag_list] => Whethan Savage Flux Pavilion Max Edm Pop
+    [permalink] => savage
+    [streamable] => 1
+    [embeddable_by] => all
+    [downloadable] => 
+    [purchase_url] => https://BigBeat.lnk.to/SavageSo
+    [label_id] => 
+    [purchase_title] => Stream/Buy
+    [genre] => Electronic
+    [title] => Savage (feat. Flux Pavilion & MAX)
+    [description] => Available Now via Big Beat White Label! BigBeat.lnk.to/SavageSo
+
+Free Acapella Download: http://smarturl.it/SavageStems
+
+Follow Whethan
+https://www.facebook.com/whethanmusic
+https://twitter.com/whethanmusic
+https://www.instagram.com/whethanmusic
+https://soundcloud.com/whethan
+ 
+Follow Max
+https://www.facebook.com/MaxSchneiderOfficial
+https://twitter.com/maxgschneider
+https://www.instagram.com/maxgschneider
+https://www.youtube.com/max
+https://soundcloud.com/maxschneider
+ 
+Follow Flux Pavilion
+https://www.facebook.com/fluxpavilion
+https://twitter.com/fluxpavilion
+https://www.instagram.com/fluxpavilion
+https://www.youtube.com/user/FluxPavilion
+https://soundcloud.com/flux-pavilion
+ 
+Follow Big Beat
+http://smarturl.it/BigBeatSpotify
+http://facebook.com/wearebigbeat
+http://twitter.com/wearebigbeat
+http://youtube.com/wearebigbeat
+http://instagram.com/wearebigbeat
+    [label_name] => 
+    [release] => 
+    [track_type] => 
+    [key_signature] => 
+    [isrc] => 
+    [video_url] => 
+    [bpm] => 
+    [release_year] => 
+    [release_month] => 
+    [release_day] => 
+    [original_format] => wav
+    [license] => all-rights-reserved
+    [uri] => https://api.soundcloud.com/tracks/296514356
+    [user] => Array
+        (
+            [id] => 108856420
+            [kind] => user
+            [permalink] => whethan
+            [username] => Whethan
+            [last_modified] => 2017/06/27 14:54:48 +0000
+            [uri] => https://api.soundcloud.com/users/108856420
+            [permalink_url] => http://soundcloud.com/whethan
+            [avatar_url] => https://i1.sndcdn.com/avatars-000320677931-f86t3i-large.jpg
+        )
+
+    [attachments_uri] => https://api.soundcloud.com/tracks/296514356/attachments
+    [permalink_url] => http://soundcloud.com/whethan/savage
+    [artwork_url] => https://i1.sndcdn.com/artworks-000197128549-riccpp-large.jpg
+    [waveform_url] => https://w1.sndcdn.com/rmpvAyg52by1_m.png
+    [stream_url] => https://api.soundcloud.com/tracks/296514356/stream
+    [playback_count] => 300755
+    [download_count] => 0
+    [favoritings_count] => 93298
+    [comment_count] => 756
+)
+6=> | 
+Array
+(
+    [kind] => track
+    [id] => 258473650
+    [created_at] => 2016/04/11 16:58:20 +0000
+    [user_id] => 27053630
+    [duration] => 235176
+    [commentable] => 1
+    [state] => finished
+    [original_content_size] => 9406243
+    [last_modified] => 2017/06/12 20:55:17 +0000
+    [sharing] => public
+    [tag_list] => 
+    [permalink] => cantstop
+    [streamable] => 1
+    [embeddable_by] => all
+    [downloadable] => 
+    [purchase_url] => https://www.hive.co/l/r291
+    [label_id] => 
+    [purchase_title] => Free Download
+    [genre] => Flux
+    [title] => Flux Pavilion - I Can't Stop (Ekali Tribute)
+    [description] => Official remix for Flux Pavilion
+Download (iTunes + Google Play): www.smarturl.it/DownloadICantStop
+Stream (Spotify): www.smarturl.it/StreamICantStop
+Beatport: www.smarturl.it/ICantStop_B
+    [label_name] => 
+    [release] => 
+    [track_type] => 
+    [key_signature] => 
+    [isrc] => 
+    [video_url] => 
+    [bpm] => 
+    [release_year] => 
+    [release_month] => 
+    [release_day] => 
+    [original_format] => mp3
+    [license] => all-rights-reserved
+    [uri] => https://api.soundcloud.com/tracks/258473650
+    [user] => Array
+        (
+            [id] => 27053630
+            [kind] => user
+            [permalink] => ekalimusic
+            [username] => EKALI
+            [last_modified] => 2017/06/27 01:02:02 +0000
+            [uri] => https://api.soundcloud.com/users/27053630
+            [permalink_url] => http://soundcloud.com/ekalimusic
+            [avatar_url] => https://i1.sndcdn.com/avatars-000294223931-c8eszf-large.jpg
+        )
+
+    [attachments_uri] => https://api.soundcloud.com/tracks/258473650/attachments
+    [permalink_url] => http://soundcloud.com/ekalimusic/cantstop
+    [artwork_url] => https://i1.sndcdn.com/artworks-000206279671-67xpqa-large.jpg
+    [waveform_url] => https://w1.sndcdn.com/3il0d7T4kkQj_m.png
+    [stream_url] => https://api.soundcloud.com/tracks/258473650/stream
+    [playback_count] => 435821
+    [download_count] => 0
+    [favoritings_count] => 88806
+    [comment_count] => 925
+)
+7=> | 
+Array
+(
+    [kind] => track
+    [id] => 325898028
+    [created_at] => 2017/06/03 20:08:24 +0000
+    [user_id] => 249070524
+    [duration] => 236873
+    [commentable] => 1
+    [state] => finished
+    [original_content_size] => 41775600
+    [last_modified] => 2017/06/04 15:25:14 +0000
+    [sharing] => public
+    [tag_list] => bugsqaud
+    [permalink] => suskii-cyfr-clockwork
+    [streamable] => 1
+    [embeddable_by] => all
+    [downloadable] => 
+    [purchase_url] => 
+    [label_id] => 
+    [purchase_title] => 
+    [genre] => Dubstep
+    [title] => Suskii & Cyfr - Clockwork [BUGSQUAD]
+    [description] => Get it on bandcamp!
+https://suskii.bandcamp.com/album/bugsquad
+
+Follow Cyfr!
+https://soundcloud.com/mynameiscyfr
+
+This EP was in the works for a while, and it was so much fun to make!
+I hope you enjoy it!
+    [label_name] => 
+    [release] => 
+    [track_type] => 
+    [key_signature] => 
+    [isrc] => 
+    [video_url] => 
+    [bpm] => 
+    [release_year] => 
+    [release_month] => 
+    [release_day] => 
+    [original_format] => wav
+    [license] => all-rights-reserved
+    [uri] => https://api.soundcloud.com/tracks/325898028
+    [user] => Array
+        (
+            [id] => 249070524
+            [kind] => user
+            [permalink] => suskiimusic
+            [username] => Suskii
+            [last_modified] => 2017/06/28 04:04:41 +0000
+            [uri] => https://api.soundcloud.com/users/249070524
+            [permalink_url] => http://soundcloud.com/suskiimusic
+            [avatar_url] => https://i1.sndcdn.com/avatars-000276152083-2f1uvb-large.jpg
+        )
+
+    [attachments_uri] => https://api.soundcloud.com/tracks/325898028/attachments
+    [permalink_url] => http://soundcloud.com/suskiimusic/suskii-cyfr-clockwork
+    [artwork_url] => https://i1.sndcdn.com/artworks-000225892258-ibvrv9-large.jpg
+    [waveform_url] => https://w1.sndcdn.com/UsQGIZPqv1ab_m.png
+    [stream_url] => https://api.soundcloud.com/tracks/325898028/stream
+    [playback_count] => 11
+    [download_count] => 0
+    [favoritings_count] => 144
+    [comment_count] => 0
+)
+8=> | 
+Array
+(
+    [kind] => track
+    [id] => 110618528
+    [created_at] => 2013/09/15 20:17:35 +0000
+    [user_id] => 32657594
+    [duration] => 350490
+    [commentable] => 1
+    [state] => finished
+    [original_content_size] => 7010839
+    [last_modified] => 2017/03/29 19:27:06 +0000
+    [sharing] => public
+    [tag_list] => dark "kryptic minds" "six degrees" bass
+    [permalink] => kryptic-minds-six-degrees
+    [streamable] => 1
+    [embeddable_by] => all
+    [downloadable] => 
+    [purchase_url] => 
+    [label_id] => 
+    [purchase_title] => 
+    [genre] => dubstep
+    [title] => Kryptic Minds - Six Degrees
+    [description] => 
+    [label_name] => 
+    [release] => 
+    [track_type] => 
+    [key_signature] => 
+    [isrc] => 
+    [video_url] => 
+    [bpm] => 
+    [release_year] => 
+    [release_month] => 
+    [release_day] => 
+    [original_format] => mp3
+    [license] => all-rights-reserved
+    [uri] => https://api.soundcloud.com/tracks/110618528
+    [user] => Array
+        (
+            [id] => 32657594
+            [kind] => user
+            [permalink] => hristo-kozhuharov
+            [username] => ICÜ
+            [last_modified] => 2017/05/22 08:37:46 +0000
+            [uri] => https://api.soundcloud.com/users/32657594
+            [permalink_url] => http://soundcloud.com/hristo-kozhuharov
+            [avatar_url] => https://i1.sndcdn.com/avatars-000138110377-5gv0yr-large.jpg
+        )
+
+    [attachments_uri] => https://api.soundcloud.com/tracks/110618528/attachments
+    [permalink_url] => http://soundcloud.com/hristo-kozhuharov/kryptic-minds-six-degrees
+    [artwork_url] => https://i1.sndcdn.com/artworks-000057856238-1nuglu-large.jpg
+    [waveform_url] => https://w1.sndcdn.com/GRGujk1t48aT_m.png
+    [stream_url] => https://api.soundcloud.com/tracks/110618528/stream
+    [playback_count] => 46036
+    [download_count] => 0
+    [favoritings_count] => 1726
+    [comment_count] => 52
+)
+9=> | 
+Array
+(
+    [kind] => track
+    [id] => 327314103
+    [created_at] => 2017/06/09 17:48:12 +0000
+    [user_id] => 8553751
+    [duration] => 195936
+    [commentable] => 1
+    [state] => finished
+    [original_content_size] => 34550588
+    [last_modified] => 2017/06/09 22:01:50 +0000
+    [sharing] => public
+    [tag_list] => Monstercat "Tut Tut Child" "If I Could" "Beth Cole" Pop "Indie Pop" Melodic upbeat
+    [permalink] => tut-tut-child-if-i-could
+    [streamable] => 1
+    [embeddable_by] => all
+    [downloadable] => 
+    [purchase_url] => https://Monstercat.lnk.to/IfICould
+    [label_id] => 
+    [purchase_title] => 🎧  Stream / Download
+    [genre] => Indie Dance
+    [title] => Tut Tut Child - If I Could (feat. Beth Cole)
+    [description] => 🎧 Support on all platforms: https://Monstercat.lnk.to/IfICould
+
+▼ Follow Monstercat
+Snapchat: https://www.snapchat.com/add/monstercat
+YouTube: http://www.youtube.com/Monstercat
+Spotify: http://monster.cat/1hGrCWk
+Facebook: http://facebook.com/Monstercat
+Twitter: http://twitter.com/Monstercat
+Instagram: http://instagram.com/monstercat
+Vine: https://vine.co/monstercat
+SoundCloud: http://soundcloud.com/Monstercat
+Google+: https://plus.google.com/+Monstercat
+Monstercat FM: http://live.monstercat.com
+
+💥  Follow Tut Tut Child
+Facebook: https://www.facebook.com/TutTutChild
+Twitter: https://twitter.com/tuttutchild
+Soundcloud: https://soundcloud.com/tuttutchild
+Youtube: https://www.youtube.com/user/TutTutChild
+
+Genre: Indie Dance
+
+▼ Want some new Merchandise?
+http://monster.cat/MonstercatShop
+    [label_name] => Monstercat
+    [release] => 
+    [track_type] => 
+    [key_signature] => 
+    [isrc] => 
+    [video_url] => 
+    [bpm] => 
+    [release_year] => 2017
+    [release_month] => 6
+    [release_day] => 8
+    [original_format] => raw
+    [license] => all-rights-reserved
+    [uri] => https://api.soundcloud.com/tracks/327314103
+    [user] => Array
+        (
+            [id] => 8553751
+            [kind] => user
+            [permalink] => monstercat
+            [username] => Monstercat
+            [last_modified] => 2017/05/16 19:14:09 +0000
+            [uri] => https://api.soundcloud.com/users/8553751
+            [permalink_url] => http://soundcloud.com/monstercat
+            [avatar_url] => https://i1.sndcdn.com/avatars-000309637915-o6othx-large.jpg
+        )
+
+    [attachments_uri] => https://api.soundcloud.com/tracks/327314103/attachments
+    [permalink_url] => http://soundcloud.com/monstercat/tut-tut-child-if-i-could
+    [artwork_url] => https://i1.sndcdn.com/artworks-000227654422-et1eey-large.jpg
+    [waveform_url] => https://w1.sndcdn.com/Roxhjk9XgBRK_m.png
+    [stream_url] => https://api.soundcloud.com/tracks/327314103/stream
+    [playback_count] => 3736
+    [download_count] => 0
+    [favoritings_count] => 4433
+    [comment_count] => 63
+)
+10=> | 
+Array
+(
+    [kind] => track
+    [id] => 64259126
+    [created_at] => 2012/10/21 17:51:53 +0000
+    [user_id] => 1303359
+    [duration] => 3571011
+    [commentable] => 1
+    [state] => finished
+    [original_content_size] => 85699642
+    [last_modified] => 2015/01/03 10:39:26 +0000
+    [sharing] => public
+    [tag_list] => "Deep House" Techno
+    [permalink] => i-catch-your-eyes-try-not-to
+    [streamable] => 1
+    [embeddable_by] => all
+    [downloadable] => 
+    [purchase_url] => 
+    [label_id] => 
+    [purchase_title] => 
+    [genre] => Tech House
+    [title] => I catch your eyes  Try not to smile  I check your style  I feel the Vibes (Promo)
+    [description] => 
+    [label_name] => 
+    [release] => 
+    [track_type] => 
+    [key_signature] => 
+    [isrc] => 
+    [video_url] => 
+    [bpm] => 
+    [release_year] => 
+    [release_month] => 
+    [release_day] => 
+    [original_format] => mp3
+    [license] => all-rights-reserved
+    [uri] => https://api.soundcloud.com/tracks/64259126
+    [user] => Array
+        (
+            [id] => 1303359
+            [kind] => user
+            [permalink] => pasqualino-1
+            [username] => *pasquale*
+            [last_modified] => 2015/08/23 11:05:58 +0000
+            [uri] => https://api.soundcloud.com/users/1303359
+            [permalink_url] => http://soundcloud.com/pasqualino-1
+            [avatar_url] => https://i1.sndcdn.com/avatars-000095938009-n3spgh-large.jpg
+        )
+
+    [attachments_uri] => https://api.soundcloud.com/tracks/64259126/attachments
+    [permalink_url] => http://soundcloud.com/pasqualino-1/i-catch-your-eyes-try-not-to
+    [artwork_url] => 
+    [waveform_url] => https://w1.sndcdn.com/lLaMJHy3oPoR_m.png
+    [stream_url] => https://api.soundcloud.com/tracks/64259126/stream
+    [playback_count] => 1829
+    [download_count] => 0
+    [favoritings_count] => 22
+    [comment_count] => 0
+)
+11=> | 
+Array
+(
+    [kind] => track
+    [id] => 299619861
+    [created_at] => 2016/12/26 05:09:42 +0000
+    [user_id] => 204336454
+    [duration] => 252366
+    [commentable] => 1
+    [state] => finished
+    [original_content_size] => 10091694
+    [last_modified] => 2017/02/22 21:54:59 +0000
+    [sharing] => public
+    [tag_list] => TheOnlyPixel19, Mashup, Tokyo Machine, PARTY, EDM, Electronic, Dance, Bass, Monstercat, Melodic, New, Electro, Original, NOTE Machine Mega Mash, OKAY, bass house, tokyo, party, electro house gaming music, melody, FIGHT, PIXEL
+    [permalink] => tokyo-machine-mashup
+    [streamable] => 1
+    [embeddable_by] => all
+    [downloadable] => 
+    [purchase_url] => 
+    [label_id] => 
+    [purchase_title] => 
+    [genre] => Electro
+    [title] => Tokyo Machine - We're Fighting A Party Pixel, Okay ~ [NOTE Mashup]
+    [description] => ~ Follow TheOnlyPixel19 ~
+SoundCloud: https://soundcloud.com/theonlypixel19
+Tweetr: https://twitter.com/TheOnlyPixel19
+
+~ Follow NOTE ~
+SoundCloud: https://soundcloud.com/notecolt
+YouTube: https://www.youtube.com/channel/UCuNW...
+Twitter: https://twitter.com/dankumon
+
+~ Songs ~
+Tokyo Machine - PARTY [Monstercat Release]
+Tokyo Machine - OKAY [Monstercat Release]
+Tokyo Machine - FIGHT [Monstercat Release]
+Tokyo Machine - PIXEL [Monstercat Release]
+
+~ Follow Tokyo Machine ~
+Facebook: https://www.facebook.com/tokyomachine
+SoundCloud: https://soundcloud.com/tokyo-machine
+Twitter: https://twitter.com/tokyomachine
+Instagram: https://www.instagram.com/tokyomachin...
+    [label_name] => 
+    [release] => 
+    [track_type] => 
+    [key_signature] => 
+    [isrc] => 
+    [video_url] => 
+    [bpm] => 
+    [release_year] => 
+    [release_month] => 
+    [release_day] => 
+    [original_format] => mp3
+    [license] => all-rights-reserved
+    [uri] => https://api.soundcloud.com/tracks/299619861
+    [user] => Array
+        (
+            [id] => 204336454
+            [kind] => user
+            [permalink] => theonlypixel19
+            [username] => Duality
+            [last_modified] => 2017/06/13 03:01:21 +0000
+            [uri] => https://api.soundcloud.com/users/204336454
+            [permalink_url] => http://soundcloud.com/theonlypixel19
+            [avatar_url] => https://i1.sndcdn.com/avatars-000315530889-ok4hyg-large.jpg
+        )
+
+    [attachments_uri] => https://api.soundcloud.com/tracks/299619861/attachments
+    [permalink_url] => http://soundcloud.com/theonlypixel19/tokyo-machine-mashup
+    [artwork_url] => https://i1.sndcdn.com/artworks-000200113222-fmep69-large.jpg
+    [waveform_url] => https://w1.sndcdn.com/eUQdryFhATI2_m.png
+    [stream_url] => https://api.soundcloud.com/tracks/299619861/stream
+    [playback_count] => 494
+    [download_count] => 0
+    [favoritings_count] => 311
+    [comment_count] => 32
+)
+12=> | 
+Array
+(
+    [kind] => track
+    [id] => 326711197
+    [created_at] => 2017/06/06 18:24:04 +0000
+    [user_id] => 191851937
+    [duration] => 191338
+    [commentable] => 1
+    [state] => finished
+    [original_content_size] => 33736580
+    [last_modified] => 2017/06/27 17:14:51 +0000
+    [sharing] => public
+    [tag_list] => "Bass House" Tokyo House 808 Chiptune J-Pop Kawaii Breaks Electro "Rocket League" rocketleague Rocket League
+    [permalink] => rockit
+    [streamable] => 1
+    [embeddable_by] => all
+    [downloadable] => 
+    [purchase_url] => https://Monstercat.lnk.to/RLVol1
+    [label_id] => 
+    [purchase_title] => BUY
+    [genre] => Dance & EDM
+    [title] => ROCK IT 🚀
+    [description] => ROCK IT [ ^ vvvv ^ ] OUT NOW！
+
+https://Monstercat.lnk.to/RLVol1
+    [label_name] => Monstercat
+    [release] => 
+    [track_type] => 
+    [key_signature] => 
+    [isrc] => 
+    [video_url] => 
+    [bpm] => 
+    [release_year] => 2017
+    [release_month] => 6
+    [release_day] => 6
+    [original_format] => wav
+    [license] => all-rights-reserved
+    [uri] => https://api.soundcloud.com/tracks/326711197
+    [user] => Array
+        (
+            [id] => 191851937
+            [kind] => user
+            [permalink] => tokyo-machine
+            [username] => TOKYO MACHINE
+            [last_modified] => 2017/06/06 18:28:12 +0000
+            [uri] => https://api.soundcloud.com/users/191851937
+            [permalink_url] => http://soundcloud.com/tokyo-machine
+            [avatar_url] => https://i1.sndcdn.com/avatars-000301489653-42pefr-large.jpg
+        )
+
+    [attachments_uri] => https://api.soundcloud.com/tracks/326711197/attachments
+    [permalink_url] => http://soundcloud.com/tokyo-machine/rockit
+    [artwork_url] => https://i1.sndcdn.com/artworks-000226725301-l1qft1-large.jpg
+    [waveform_url] => https://w1.sndcdn.com/PKRDSDmCruVI_m.png
+    [stream_url] => https://api.soundcloud.com/tracks/326711197/stream
+    [playback_count] => 905
+    [download_count] => 0
+    [favoritings_count] => 2484
+    [comment_count] => 114
+)
+13=> | 
+Array
+(
+    [kind] => track
+    [id] => 326691875
+    [created_at] => 2017/06/06 17:37:18 +0000
+    [user_id] => 8553751
+    [duration] => 191338
+    [commentable] => 1
+    [state] => finished
+    [original_content_size] => 33740432
+    [last_modified] => 2017/06/25 15:52:04 +0000
+    [sharing] => public
+    [tag_list] => Monstercat "Tokyo Machine" "ROCK IT" EDM Electronic Dance Music Bass "Rocket League"
+    [permalink] => tokyo-machine-rock-it
+    [streamable] => 1
+    [embeddable_by] => all
+    [downloadable] => 
+    [purchase_url] => 
+    [label_id] => 
+    [purchase_title] => 
+    [genre] => Electro
+    [title] => Tokyo Machine - ROCK IT
+    [description] => And Here We Go! Tokyo Machine “ROCK IT” launches the preorder for Rocket League X Monstercat Vol 1. today! 🚀
+
+🎧 Support on all platforms: https://Monstercat.lnk.to/RockIt
+
+▼ Follow Monstercat
+Snapchat: https://www.snapchat.com/add/monstercat
+YouTube: http://www.youtube.com/Monstercat
+Spotify: http://monster.cat/1hGrCWk
+Facebook: http://facebook.com/Monstercat
+Twitter: http://twitter.com/Monstercat
+Instagram: http://instagram.com/monstercat
+Vine: https://vine.co/monstercat
+SoundCloud: http://soundcloud.com/Monstercat
+Google+: https://plus.google.com/+Monstercat
+Monstercat FM: http://live.monstercat.com
+
+💥  Follow Tokyo Machine
+Facebook: https://www.facebook.com/tokyomachine
+SoundCloud: https://soundcloud.com/tokyo-machine
+Twitter: https://twitter.com/tokyomachine
+Instagram: https://www.instagram.com/tokyomachinedesu
+
+Genre: Electro
+
+▼ Want some new Merchandise?
+http://monster.cat/MonstercatShop
+    [label_name] => 
+    [release] => 
+    [track_type] => 
+    [key_signature] => 
+    [isrc] => 
+    [video_url] => 
+    [bpm] => 
+    [release_year] => 
+    [release_month] => 
+    [release_day] => 
+    [original_format] => wav
+    [license] => all-rights-reserved
+    [uri] => https://api.soundcloud.com/tracks/326691875
+    [user] => Array
+        (
+            [id] => 8553751
+            [kind] => user
+            [permalink] => monstercat
+            [username] => Monstercat
+            [last_modified] => 2017/05/16 19:14:09 +0000
+            [uri] => https://api.soundcloud.com/users/8553751
+            [permalink_url] => http://soundcloud.com/monstercat
+            [avatar_url] => https://i1.sndcdn.com/avatars-000309637915-o6othx-large.jpg
+        )
+
+    [attachments_uri] => https://api.soundcloud.com/tracks/326691875/attachments
+    [permalink_url] => http://soundcloud.com/monstercat/tokyo-machine-rock-it
+    [artwork_url] => https://i1.sndcdn.com/artworks-000226704567-lg4q9g-large.jpg
+    [waveform_url] => https://w1.sndcdn.com/kzJSr0H7EpD9_m.png
+    [stream_url] => https://api.soundcloud.com/tracks/326691875/stream
+    [playback_count] => 10783
+    [download_count] => 0
+    [favoritings_count] => 7779
+    [comment_count] => 196
+)
+14=> | 
+Array
+(
+    [kind] => track
+    [id] => 244095052
+    [created_at] => 2016/01/27 19:30:26 +0000
+    [user_id] => 8553751
+    [duration] => 196485
+    [commentable] => 1
+    [state] => finished
+    [original_content_size] => 34649988
+    [last_modified] => 2017/05/30 16:35:38 +0000
+    [sharing] => public
+    [tag_list] => Conro "On My Way Up" Future Bass EDM Electronic Dance Music New Original Melodic Monstercat
+    [permalink] => conro-on-my-way-up
+    [streamable] => 1
+    [embeddable_by] => all
+    [downloadable] => 
+    [purchase_url] => http://msclvr.co/QcDgnE
+    [label_id] => 
+    [purchase_title] => Support on iTunes
+    [genre] => Future Bass
+    [title] => Conro - On My Way Up
+    [description] => This track is featured on "Monstercat 026 - Resistance" Available now! - http://monster.cat/026-Resistance-iTunes
+---
+Support on iTunes: http://monster.cat/1NBjmR1
+Support on Beatport: http://monster.cat/1nyEAdT
+Support on Bandcamp: http://monster.cat/23tP8Lu
+---
+Watch on YouTube: http://monster.cat/1QsZrs1
+Listen on Spotify: http://monster.cat/1KFIrKF
+
+▼ Follow Monstercat
+Snapchat: Monstercat
+YouTube: http://www.youtube.com/Monstercat
+Spotify: http://monster.cat/1hGrCWk
+Facebook: http://facebook.com/Monstercat
+Twitter: http://twitter.com/Monstercat
+Instagram: http://instagram.com/monstercat
+SoundCloud: http://soundcloud.com/Monstercat
+Google+: https://plus.google.com/+Monstercat
+
+▼ Follow Conro
+Facebook: https://www.facebook.com/conromusic
+Twitter: https://twitter.com/conromusic
+Soundcloud: https://soundcloud.com/conromusic
+Instagram: https://www.instagram.com/conromusic
+
+▼ Want some new Merchandise?
+http://monster.cat/MonstercatShop
+    [label_name] => Monstercat
+    [release] => 
+    [track_type] => 
+    [key_signature] => 
+    [isrc] => 
+    [video_url] => 
+    [bpm] => 
+    [release_year] => 2016
+    [release_month] => 1
+    [release_day] => 19
+    [original_format] => wav
+    [license] => all-rights-reserved
+    [uri] => https://api.soundcloud.com/tracks/244095052
+    [user] => Array
+        (
+            [id] => 8553751
+            [kind] => user
+            [permalink] => monstercat
+            [username] => Monstercat
+            [last_modified] => 2017/05/16 19:14:09 +0000
+            [uri] => https://api.soundcloud.com/users/8553751
+            [permalink_url] => http://soundcloud.com/monstercat
+            [avatar_url] => https://i1.sndcdn.com/avatars-000309637915-o6othx-large.jpg
+        )
+
+    [attachments_uri] => https://api.soundcloud.com/tracks/244095052/attachments
+    [permalink_url] => http://soundcloud.com/monstercat/conro-on-my-way-up
+    [artwork_url] => https://i1.sndcdn.com/artworks-000144832552-bd3c3u-large.jpg
+    [waveform_url] => https://w1.sndcdn.com/Ydm6vbuODAO6_m.png
+    [stream_url] => https://api.soundcloud.com/tracks/244095052/stream
+    [playback_count] => 277125
+    [download_count] => 0
+    [favoritings_count] => 15289
+    [comment_count] => 191
+)
+15=> | 
+Array
+(
+    [kind] => track
+    [id] => 324485592
+    [created_at] => 2017/05/25 18:50:11 +0000
+    [user_id] => 8553751
+    [duration] => 3700512
+    [commentable] => 1
+    [state] => finished
+    [original_content_size] => 652697648
+    [last_modified] => 2017/06/16 02:45:53 +0000
+    [sharing] => public
+    [tag_list] => Monstercat "Monstercat Podcast" EDM Electronic Dance Music Bass Upbeat Mix Mixtape "Call of the Wild" COTW 153 "Ep. 153" "Power Mix" Dubstep Electro House "Future Bass" Trap Radio "Background Music"
+    [permalink] => cotw153
+    [streamable] => 1
+    [embeddable_by] => all
+    [downloadable] => 
+    [purchase_url] => https://Monstercat.lnk.to/COTW153
+    [label_id] => 
+    [purchase_title] => 🎧 Stream / Download
+    [genre] => Dance & EDM
+    [title] => Monstercat: Call of the Wild Ep. 153 | KUURO, Grant & MYRNE [#COTW153]
+    [description] => 🎧  Free Download & Stream : https://Monstercat.lnk.to/COTW153
+
+🎙 Submit a Soundbite: https://www.monstercat.com/podcast
+
+🎹  Tracklist 
+00:00:42 Rogue, Stonebank & Slips & Slurs - Unity
+00:03:56 Pegboard Nerds & Grabbitz - All Alone
+00:08:10 Muzzy - Calling Out (ft. KG & Skyelle) 
+00:13:17 Rameses B - Nova
+00:16:58 Darren Styles & Gammer - Feel Like This
+00:20:40 Conro - Lay Low (ft. David Benjamin)
+00:24:13 MYRNE - Afterdark (ft. Aviella)
+00:27:25 Pegboard Nerds - We Are One (ft. Splitbreed)
+00:30:33 KUURO - Possession [Monstercat Spotlight]
+00:33:58 Grant - Are We Still Young (ft. Jessi Mason) [Monstercat Exclusive]
+00:35:56 Au5 & Fractal - Pavonine
+00:41:03 Glacier - Nurture (ft. Brenna Mysers)
+00:44:07 Trivecta - Believe (ft. Connor Zwetsch) [Monstercat Throwback]
+00:48:57 Eminence & Markus Cole - My Galaxy (ft. Q’AILA)
+00:53:26 Dirty Audio & Max Styler - Roller Coaster
+00:56:54 Koven - Telling Me
+
+🎪 Upcoming Events
+JUN 12 - Faceit x Monstercat AFK E3 Pre-Party - Los Angeles
+JUN 17 - Monstercat Art Car @ Electric Daisy Carnival (EDC) - Las Vegas
+JUL 21 - Monstercat Stage @ Tomorrowland - Belgium
+Tickets: https://www.monstercat.com/events
+
+📻  Radio Stations
+Digitally Imported // UK // TUES 10PM GMT // http://monster.cat/2aep0Cw
+Dash Radio // US // TUES 11PM GMT // http://monster.cat/29OH19j
+Noise FM // Russia // WED 5PM GMT // http://monster.cat/29QgtB4
+Real Dance Radio // UK // WED 6PM GMT // http://monster.cat/2axYz9r
+Parazhit // Netherlands // THUR 11AM GMT // http://monster.cat/29RAbLT
+GrooveFox // US // WED 7PM GMT // http://monster.cat/1zlUZXF
+Electra FM // Colombia // WED 11PM GMT // http://monster.cat/29Wwu9i
+JR.FM // US // THUR // 8PM GMT // http://bit.ly/2fzhelm
+Radio Na Balada // Brazil // FRI // 4AM GMT // http://bit.ly/2eURTRw
+Dubbase FM // Germany // FRI 5PM GDT // http://monster.cat/2bArO84
+My 95.9 FM // Hawaii // FRI 6AM GMT // http://monster.cat/2abSoq9
+Fuddle.NL // Netherlands // FRI 8PM GMT // http://monster.cat/29Y2yrD
+Jam City // US // FRI 10PM GMT // http://monster.cat/2a2zGmj
+Radio 5 // Poland // SAT 2AM GMT // http://monster.cat/2a00QXk
+Ultrastacion // Venezuela // SAT 6:30AM GMT // http://monster.cat/2a3vSka
+Dance Radio // Canada // SAT 11PM GMT // http://monster.cat/29Y37kZ
+KISS FM // Thailand // SUN 12AM GMT // http://bit.ly/2dBWufw
+Wizard Radio // UK // SUN 12AM GMT // http://monster.cat/2a3wZ37
+401 Radio // Canada // SUN 1AM GMT // http://monster.cat/1KrxhtM
+Future Groove // Japan // SUN 1AM GMT // http://monster.cat/29WOy7g
+Switch 119.7 // Brisbane // SUN 7PM GMT // http://bit.ly/2dtBhzo
+Dirty Beats Radio // Peru // SUN 7PM GMT // http://bit.ly/2dxyA4S
+My 105 //Switzerland // http://bit.ly/2fDLGLg
+
+👕  Monstercat Shop
+http://shop.monstercat.com
+    [label_name] => Monstercat
+    [release] => 
+    [track_type] => 
+    [key_signature] => 
+    [isrc] => 
+    [video_url] => 
+    [bpm] => 
+    [release_year] => 2017
+    [release_month] => 5
+    [release_day] => 21
+    [original_format] => wav
+    [license] => all-rights-reserved
+    [uri] => https://api.soundcloud.com/tracks/324485592
+    [user] => Array
+        (
+            [id] => 8553751
+            [kind] => user
+            [permalink] => monstercat
+            [username] => Monstercat
+            [last_modified] => 2017/05/16 19:14:09 +0000
+            [uri] => https://api.soundcloud.com/users/8553751
+            [permalink_url] => http://soundcloud.com/monstercat
+            [avatar_url] => https://i1.sndcdn.com/avatars-000309637915-o6othx-large.jpg
+        )
+
+    [attachments_uri] => https://api.soundcloud.com/tracks/324485592/attachments
+    [permalink_url] => http://soundcloud.com/monstercat/cotw153
+    [artwork_url] => https://i1.sndcdn.com/artworks-000224349945-bn3egq-large.jpg
+    [waveform_url] => https://w1.sndcdn.com/KqF22cM0vdRi_m.png
+    [stream_url] => https://api.soundcloud.com/tracks/324485592/stream
+    [playback_count] => 2290
+    [download_count] => 0
+    [favoritings_count] => 1667
+    [comment_count] => 39
+)
+16=> | 
+Array
+(
+    [kind] => track
+    [id] => 324488307
+    [created_at] => 2017/05/25 19:09:18 +0000
+    [user_id] => 4091150
+    [duration] => 265219
+    [commentable] => 1
+    [state] => finished
+    [original_content_size] => 10609200
+    [last_modified] => 2017/07/04 02:41:46 +0000
+    [sharing] => public
+    [tag_list] => 
+    [permalink] => staring-at-the-sun
+    [streamable] => 1
+    [embeddable_by] => all
+    [downloadable] => 
+    [purchase_url] => https://open.spotify.com/track/2UPXQ1UumX1qBh8COMbo6K
+    [label_id] => 
+    [purchase_title] => SPOTIFY
+    [genre] => Electronic
+    [title] => Staring At The Sun
+    [description] => Feel free to click the [↻ Repost] button!
+    [label_name] => Disruptor/Gold'N Retriever/RCA Records
+    [release] => 
+    [track_type] => 
+    [key_signature] => 
+    [isrc] => 
+    [video_url] => 
+    [bpm] => 
+    [release_year] => 2017
+    [release_month] => 6
+    [release_day] => 2
+    [original_format] => mp3
+    [license] => all-rights-reserved
+    [uri] => https://api.soundcloud.com/tracks/324488307
+    [user] => Array
+        (
+            [id] => 4091150
+            [kind] => user
+            [permalink] => djvanic
+            [username] => VANIC Official
+            [last_modified] => 2017/06/29 17:38:40 +0000
+            [uri] => https://api.soundcloud.com/users/4091150
+            [permalink_url] => http://soundcloud.com/djvanic
+            [avatar_url] => https://i1.sndcdn.com/avatars-000294598125-mxklvz-large.jpg
+        )
+
+    [attachments_uri] => https://api.soundcloud.com/tracks/324488307/attachments
+    [permalink_url] => http://soundcloud.com/djvanic/staring-at-the-sun
+    [artwork_url] => https://i1.sndcdn.com/artworks-mtMok54MYxVd-0-large.jpg
+    [waveform_url] => https://w1.sndcdn.com/fi0Xa7lYhEl0_m.png
+    [stream_url] => https://api.soundcloud.com/tracks/324488307/stream
+    [playback_count] => 14673
+    [download_count] => 0
+    [favoritings_count] => 18551
+    [comment_count] => 102
+)
+17=> | 
+Array
+(
+    [kind] => track
+    [id] => 325547646
+    [created_at] => 2017/06/01 16:08:24 +0000
+    [user_id] => 16069159
+    [duration] => 212942
+    [commentable] => 1
+    [state] => finished
+    [original_content_size] => 8870765
+    [last_modified] => 2017/06/10 19:39:56 +0000
+    [sharing] => public
+    [tag_list] => "Dance & EDM"
+    [permalink] => gavetome
+    [streamable] => 1
+    [embeddable_by] => all
+    [downloadable] => 
+    [purchase_url] => http://ncs.io/GaveToMeNS
+    [label_id] => 
+    [purchase_title] => DOWNLOAD / STREAM.
+    [genre] => Trap
+    [title] => T-Mass & Jaxxtone - Gave To Me [NCS Release]
+    [description] => NCS: Music without limitations. 
+
+🔊 Download/Stream for FREE: ncs.io/GaveToMeNS
+
+Watch on YouTube: https://youtu.be/qno1qzek-hw
+New Music on Spotify → ncs.io/NewMusic
+
+[NCS] 
+• NCS 24/7 Music Radio: http://NCS.io/Radio
+• http://soundcloud.com/NoCopyrightSounds
+• http://instagram.com/NoCopyrightSounds
+• http://facebook.com/NoCopyrightSounds
+• http://twitch.tv/NoCopyrightSounds
+• http://twitter.com/NCSounds
+• http://spoti.fi/NCS
+
+[T-Mass]
+ • http://facebook.com/tmassofficial
+ • http://soundcloud.com/t-mass
+• http://twitter.com/tmassofficial  
+
+[Jaxxtone] 
+• http://facebook.com/jaxxtone 
+• http://soundcloud.com/iamjaxxtone
+• http://twitter.com/jaxxtone
+    [label_name] => NCS
+    [release] => 
+    [track_type] => 
+    [key_signature] => 
+    [isrc] => 
+    [video_url] => 
+    [bpm] => 
+    [release_year] => 2017
+    [release_month] => 6
+    [release_day] => 1
+    [original_format] => mp3
+    [license] => all-rights-reserved
+    [uri] => https://api.soundcloud.com/tracks/325547646
+    [user] => Array
+        (
+            [id] => 16069159
+            [kind] => user
+            [permalink] => nocopyrightsounds
+            [username] => NCS
+            [last_modified] => 2017/06/23 14:48:27 +0000
+            [uri] => https://api.soundcloud.com/users/16069159
+            [permalink_url] => http://soundcloud.com/nocopyrightsounds
+            [avatar_url] => https://i1.sndcdn.com/avatars-000319985625-8i2ie0-large.jpg
+        )
+
+    [attachments_uri] => https://api.soundcloud.com/tracks/325547646/attachments
+    [permalink_url] => http://soundcloud.com/nocopyrightsounds/gavetome
+    [artwork_url] => https://i1.sndcdn.com/artworks-000225347036-c2bg8r-large.jpg
+    [waveform_url] => https://w1.sndcdn.com/JyR5FO83JuUl_m.png
+    [stream_url] => https://api.soundcloud.com/tracks/325547646/stream
+    [playback_count] => 19411
+    [download_count] => 0
+    [favoritings_count] => 7351
+    [comment_count] => 120
+)
+18=> | 
+Array
+(
+    [kind] => track
+    [id] => 307575621
+    [created_at] => 2017/02/13 21:24:54 +0000
+    [user_id] => 3158948
+    [duration] => 210435
+    [commentable] => 1
+    [state] => finished
+    [original_content_size] => 9416676
+    [last_modified] => 2017/02/23 03:06:01 +0000
+    [sharing] => public
+    [tag_list] => Drumstep Bass Heavy Filthy Hybrid Electronic Dance Music "Free Download"
+    [permalink] => december-tryple-shooting-stars
+    [streamable] => 1
+    [embeddable_by] => all
+    [downloadable] => 
+    [purchase_url] => https://fanlink.to/hS7
+    [label_id] => 
+    [purchase_title] => Stream or Download
+    [genre] => Dubstep
+    [title] => Dec3mber & Tryple - Shooting Stars
+    [description] => ♫  The Best Playlists on Spotify: http://spotify.aia.ag/AIA_Spotify ♫
+
+Stream or Free Download: https://fanlink.to/hS7
+
+Promos / Submissions: https://aia.ag/Music-Submissions
+--------------------------------------------------------------------------------
+➥ Follow Dec3mber:
+http://soundcloud.com/dec3mber
+http://facebook.com/dec3mber
+http://twitter.com/Dec3mberMusic
+http://youtube.com/user/HarveyDec3mber
+
+➥ Follow Tryple:
+http://soundcloud.com/the_tryple
+http://facebook.com/tryple
+http://twitter.com/MattiaTripaldi
+
+♫ Listen on Spotify:
+http://spotify.aia.ag/AIA_Spotify
+
+♫ Follow AIA:
+https://soundcloud.com/AiAPresents
+https://facebook.com/AiAgency
+https://instagram.com/AiAgency
+https://twitter.comAiAgency
+--------------------------------------------------------------------------------
+Business / Licensing Inquires: licensing@artistintelligence.agency
+
+    [label_name] => 
+    [release] => 
+    [track_type] => original
+    [key_signature] => 
+    [isrc] => 
+    [video_url] => 
+    [bpm] => 
+    [release_year] => 
+    [release_month] => 
+    [release_day] => 
+    [original_format] => mp3
+    [license] => all-rights-reserved
+    [uri] => https://api.soundcloud.com/tracks/307575621
+    [user] => Array
+        (
+            [id] => 3158948
+            [kind] => user
+            [permalink] => dubstep
+            [username] => Dubstep
+            [last_modified] => 2017/06/02 03:38:24 +0000
+            [uri] => https://api.soundcloud.com/users/3158948
+            [permalink_url] => http://soundcloud.com/dubstep
+            [avatar_url] => https://i1.sndcdn.com/avatars-000217483175-jzu5q3-large.jpg
+        )
+
+    [attachments_uri] => https://api.soundcloud.com/tracks/307575621/attachments
+    [permalink_url] => http://soundcloud.com/dubstep/december-tryple-shooting-stars
+    [artwork_url] => https://i1.sndcdn.com/artworks-000207624293-n5ixc1-large.jpg
+    [waveform_url] => https://w1.sndcdn.com/pEMlw6d1YaeG_m.png
+    [stream_url] => https://api.soundcloud.com/tracks/307575621/stream
+    [playback_count] => 1496
+    [download_count] => 0
+    [favoritings_count] => 1241
+    [comment_count] => 53
+)
+19=> | 
+Array
+(
+    [kind] => track
+    [id] => 309859317
+    [created_at] => 2017/02/27 22:06:43 +0000
+    [user_id] => 3158948
+    [duration] => 241680
+    [commentable] => 1
+    [state] => finished
+    [original_content_size] => 11274158
+    [last_modified] => 2017/04/07 07:47:44 +0000
+    [sharing] => public
+    [tag_list] => Drumstep Bass Heavy Filthy Hybrid Electronic Dance Music
+    [permalink] => chime-rob-gasser-brig-what-the-funk
+    [streamable] => 1
+    [embeddable_by] => all
+    [downloadable] => 
+    [purchase_url] => http://spoti.fi/2kQlrSM
+    [label_id] => 
+    [purchase_title] => Spotify
+    [genre] => Dubstep
+    [title] => Chime, Rob Gasser, Brig - What The Funk
+    [description] => ♫  The Best Playlists on Spotify: http://spotify.aia.ag/AIA_Spotify ♫
+
+Spotify: http://spoti.fi/2kQlrSM
+iTunes: http://apple.co/2lyOmOU
+Beatport: http://btprt.dj/2lmTEv0
+
+Promos / Submissions: https://aia.ag/Music-Submissions
+--------------------------------------------------------------------------------
+➥ Follow Chime:
+http://soundcloud.com/chimetunes
+http://facebook.com/chimetunes
+http://twitter.com/chimetunes
+
+➥ Follow Rob Gasser:
+http://soundcloud.com/robgassermusic
+http://facebook.com/robgassermusic
+http://twitter.com/robgassermusic
+
+➥ Follow Brig:
+https://soundcloud.com/brigsounds
+https://facebook.com/brigsound
+https://twitter.com/brigsounds
+
+♫ Listen on Spotify:
+http://spotify.aia.ag/AIA_Spotify
+
+♫ Follow AIA:
+https://soundcloud.com/AiAPresents
+https://facebook.com/AiAgency
+https://instagram.com/AiAgency
+https://twitter.comAiAgency
+--------------------------------------------------------------------------------
+    [label_name] => 
+    [release] => 
+    [track_type] => original
+    [key_signature] => 
+    [isrc] => 
+    [video_url] => 
+    [bpm] => 
+    [release_year] => 
+    [release_month] => 
+    [release_day] => 
+    [original_format] => mp3
+    [license] => all-rights-reserved
+    [uri] => https://api.soundcloud.com/tracks/309859317
+    [user] => Array
+        (
+            [id] => 3158948
+            [kind] => user
+            [permalink] => dubstep
+            [username] => Dubstep
+            [last_modified] => 2017/06/02 03:38:24 +0000
+            [uri] => https://api.soundcloud.com/users/3158948
+            [permalink_url] => http://soundcloud.com/dubstep
+            [avatar_url] => https://i1.sndcdn.com/avatars-000217483175-jzu5q3-large.jpg
+        )
+
+    [attachments_uri] => https://api.soundcloud.com/tracks/309859317/attachments
+    [permalink_url] => http://soundcloud.com/dubstep/chime-rob-gasser-brig-what-the-funk
+    [artwork_url] => https://i1.sndcdn.com/artworks-000209894592-4wuaip-large.jpg
+    [waveform_url] => https://w1.sndcdn.com/urj1bEFqNKzE_m.png
+    [stream_url] => https://api.soundcloud.com/tracks/309859317/stream
+    [playback_count] => 1648
+    [download_count] => 0
+    [favoritings_count] => 1953
+    [comment_count] => 33
+)
+20=> | 
+Array
+(
+    [kind] => track
+    [id] => 313661587
+    [created_at] => 2017/03/21 20:45:40 +0000
+    [user_id] => 3158948
+    [duration] => 206595
+    [commentable] => 1
+    [state] => finished
+    [original_content_size] => 8386060
+    [last_modified] => 2017/04/06 16:48:18 +0000
+    [sharing] => public
+    [tag_list] => Drumstep Bass Heavy Filthy Hybrid Electronic Dance Music
+    [permalink] => the-cats-were-gonna-rise
+    [streamable] => 1
+    [embeddable_by] => all
+    [downloadable] => 
+    [purchase_url] => https://geo.itunes.apple.com/us/album/were-gonna-rise/id1212083468?i=1212084131&mt=1&app=music&at=11lHt7
+    [label_id] => 
+    [purchase_title] => Purchase
+    [genre] => Dubstep
+    [title] => Th3 CATS - We're Gonna Rise
+    [description] => ♫  The Best Playlists on Spotify: http://spotify.aia.ag/AIA_Spotify ♫
+
+Stream or Purchase: https://geo.itunes.apple.com/us/album/were-gonna-rise/id1212083468?i=1212084131&mt=1&app=music&at=11lHt7
+
+Promos / Submissions: https://aia.ag/Music-Submissions
+--------------------------------------------------------------------------------
+➥ Follow Th3 Cats:
+http://soundcloud.com/th3cats
+http://facebook.com/th3cats
+http://twitter.com/TH3CATSofficial 
+
+♫ Listen on Spotify:
+http://spotify.aia.ag/AIA_Spotify
+
+♫ Follow AIA:
+https://soundcloud.com/AiAPresents
+https://facebook.com/AiAgency
+https://instagram.com/AiAgency
+https://twitter.comAiAgency
+--------------------------------------------------------------------------------
+    [label_name] => 
+    [release] => 
+    [track_type] => original
+    [key_signature] => 
+    [isrc] => 
+    [video_url] => 
+    [bpm] => 
+    [release_year] => 
+    [release_month] => 
+    [release_day] => 
+    [original_format] => mp3
+    [license] => all-rights-reserved
+    [uri] => https://api.soundcloud.com/tracks/313661587
+    [user] => Array
+        (
+            [id] => 3158948
+            [kind] => user
+            [permalink] => dubstep
+            [username] => Dubstep
+            [last_modified] => 2017/06/02 03:38:24 +0000
+            [uri] => https://api.soundcloud.com/users/3158948
+            [permalink_url] => http://soundcloud.com/dubstep
+            [avatar_url] => https://i1.sndcdn.com/avatars-000217483175-jzu5q3-large.jpg
+        )
+
+    [attachments_uri] => https://api.soundcloud.com/tracks/313661587/attachments
+    [permalink_url] => http://soundcloud.com/dubstep/the-cats-were-gonna-rise
+    [artwork_url] => https://i1.sndcdn.com/artworks-000213807942-2pnisu-large.jpg
+    [waveform_url] => https://w1.sndcdn.com/eosTxA7toePi_m.png
+    [stream_url] => https://api.soundcloud.com/tracks/313661587/stream
+    [playback_count] => 1223
+    [download_count] => 0
+    [favoritings_count] => 711
+    [comment_count] => 24
+)
+21=> | 
+Array
+(
+    [kind] => track
+    [id] => 325590574
+    [created_at] => 2017/06/01 20:41:33 +0000
+    [user_id] => 3158948
+    [duration] => 262476
+    [commentable] => 1
+    [state] => finished
+    [original_content_size] => 15829181
+    [last_modified] => 2017/06/29 21:20:32 +0000
+    [sharing] => public
+    [tag_list] => Drumstep Bass Heavy Filthy Hybrid Electronic Dance Music "Free Download"
+    [permalink] => stranguh-baba-yaga
+    [streamable] => 1
+    [embeddable_by] => all
+    [downloadable] => 
+    [purchase_url] => https://fanlink.to/nhb
+    [label_id] => 
+    [purchase_title] => Stream or Download
+    [genre] => Dubstep
+    [title] => STRANGUH - Baba Yaga
+    [description] => ♫  The Best Playlists on Spotify: http://spotify.aia.ag/AIA_Spotify ♫
+
+Stream or Free Download: https://fanlink.to/nhb
+
+Promos / Submissions: https://aia.ag/Music-Submissions
+--------------------------------------------------------------------------------
+➥ Follow Stranguh:
+http://soundcloud.com/stranguhmusic
+http://facebook.com/stranguhmusic
+http://twitter.com/STRANGUHmusic
+http://instagram.com/stranguh_danguh
+
+♫ Listen on Spotify:
+http://spotify.aia.ag/AIA_Spotify
+
+♫ Follow AIA:
+https://soundcloud.com/AiAPresents
+https://facebook.com/AiAgency
+https://instagram.com/AiAgency
+https://twitter.comAiAgency
+--------------------------------------------------------------------------------
+Business / Licensing Inquires: licensing@artistintelligence.agency
+
+    [label_name] => 
+    [release] => 
+    [track_type] => original
+    [key_signature] => 
+    [isrc] => 
+    [video_url] => 
+    [bpm] => 
+    [release_year] => 
+    [release_month] => 
+    [release_day] => 
+    [original_format] => mp3
+    [license] => all-rights-reserved
+    [uri] => https://api.soundcloud.com/tracks/325590574
+    [user] => Array
+        (
+            [id] => 3158948
+            [kind] => user
+            [permalink] => dubstep
+            [username] => Dubstep
+            [last_modified] => 2017/06/02 03:38:24 +0000
+            [uri] => https://api.soundcloud.com/users/3158948
+            [permalink_url] => http://soundcloud.com/dubstep
+            [avatar_url] => https://i1.sndcdn.com/avatars-000217483175-jzu5q3-large.jpg
+        )
+
+    [attachments_uri] => https://api.soundcloud.com/tracks/325590574/attachments
+    [permalink_url] => http://soundcloud.com/dubstep/stranguh-baba-yaga
+    [artwork_url] => https://i1.sndcdn.com/artworks-000225432042-ra5o9v-large.jpg
+    [waveform_url] => https://w1.sndcdn.com/D0Ssw6ffwQFD_m.png
+    [stream_url] => https://api.soundcloud.com/tracks/325590574/stream
+    [playback_count] => 2400
+    [download_count] => 0
+    [favoritings_count] => 1918
+    [comment_count] => 55
+)
+22=> | 
+Array
+(
+    [kind] => track
+    [id] => 315080322
+    [created_at] => 2017/03/29 17:29:06 +0000
+    [user_id] => 8553751
+    [duration] => 213073
+    [commentable] => 1
+    [state] => finished
+    [original_content_size] => 37577144
+    [last_modified] => 2017/06/27 17:15:31 +0000
+    [sharing] => public
+    [tag_list] => Monstercat Grant Starship EDM Electronic Dance Music Bass Melodic Upbeat
+    [permalink] => grant-starship
+    [streamable] => 1
+    [embeddable_by] => all
+    [downloadable] => 
+    [purchase_url] => https://Monstercat.lnk.to/Starship
+    [label_id] => 
+    [purchase_title] => 🎧 Stream / Download
+    [genre] => Electronic
+    [title] => Grant - Starship
+    [description] => 🎧  Support on all platforms: https://Monstercat.lnk.to/Starship
+
+👻 Snapchat: https://www.snapchat.com/add/monstercat
+
+😺  Follow Monstercat
+Snapchat: https://www.snapchat.com/add/monstercat
+YouTube: http://www.youtube.com/Monstercat
+Spotify: http://monster.cat/1hGrCWk
+Facebook: http://facebook.com/Monstercat
+Twitter: http://twitter.com/Monstercat
+Instagram: http://instagram.com/monstercat
+Vine: https://vine.co/monstercat
+SoundCloud: http://soundcloud.com/Monstercat
+Google+: https://plus.google.com/+Monstercat
+Monstercat FM: http://live.monstercat.com
+
+💥  Follow Grant
+Facebook: https://www.facebook.com/callmegrant
+Twitter: https://twitter.com/callme_grant
+Soundcloud: https://soundcloud.com/callmegrant
+YouTube: https://www.youtube.com/callmegrant
+Instagram: https://www.instagram.com/_callmegrant
+
+🎵  Genre: Future Bass
+
+👕 Want some new Merchandise?
+http://monster.cat/MonstercatShop
+    [label_name] => Monstercat
+    [release] => 
+    [track_type] => 
+    [key_signature] => 
+    [isrc] => 
+    [video_url] => 
+    [bpm] => 
+    [release_year] => 2017
+    [release_month] => 3
+    [release_day] => 27
+    [original_format] => wav
+    [license] => all-rights-reserved
+    [uri] => https://api.soundcloud.com/tracks/315080322
+    [user] => Array
+        (
+            [id] => 8553751
+            [kind] => user
+            [permalink] => monstercat
+            [username] => Monstercat
+            [last_modified] => 2017/05/16 19:14:09 +0000
+            [uri] => https://api.soundcloud.com/users/8553751
+            [permalink_url] => http://soundcloud.com/monstercat
+            [avatar_url] => https://i1.sndcdn.com/avatars-000309637915-o6othx-large.jpg
+        )
+
+    [attachments_uri] => https://api.soundcloud.com/tracks/315080322/attachments
+    [permalink_url] => http://soundcloud.com/monstercat/grant-starship
+    [artwork_url] => https://i1.sndcdn.com/artworks-000215276684-boghs8-large.jpg
+    [waveform_url] => https://w1.sndcdn.com/avLukei6ReUJ_m.png
+    [stream_url] => https://api.soundcloud.com/tracks/315080322/stream
+    [playback_count] => 11394
+    [download_count] => 0
+    [favoritings_count] => 11488
+    [comment_count] => 262
+)
+23=> | 
+Array
+(
+    [kind] => track
+    [id] => 177693380
+    [created_at] => 2014/11/19 19:14:01 +0000
+    [user_id] => 8553751
+    [duration] => 195257
+    [commentable] => 1
+    [state] => finished
+    [original_content_size] => 34431876
+    [last_modified] => 2017/05/07 23:33:09 +0000
+    [sharing] => public
+    [tag_list] => Monstercat Grant Bowtie "Grant Bowtie" Bass Electronic Dance EDM
+    [permalink] => grant-bowtie-clockwork
+    [streamable] => 1
+    [embeddable_by] => all
+    [downloadable] => 
+    [purchase_url] => https://itunes.apple.com/ca/album/clockwork/id938255721?i=938255731&ign-mpt=uo%3D4
+    [label_id] => 
+    [purchase_title] => Support on iTunes
+    [genre] => Future Bass
+    [title] => Grant Bowtie - Clockwork
+    [description] => Support on iTunes: http://monster.cat/1xq4st5
+Support on Beatport: http://monster.cat/1xDBN58
+Support on Bandcamp: http://monster.cat/1ubSbT7
+---
+Watch on YouTube: http://monster.cat/17spe1J
+Listen on Spotify: http://monster.cat/1vqf8ZZ
+
+▼ Follow Monstercat
+Snapchat: Monstercat
+YouTube: http://www.youtube.com/Monstercat
+Spotify: http://monster.cat/1hGrCWk
+Facebook: http://facebook.com/Monstercat
+Twitter: http://twitter.com/Monstercat
+Instagram: http://instagram.com/monstercat
+Vine: https://vine.co/monstercat
+SoundCloud: http://soundcloud.com/Monstercat
+Google+: https://plus.google.com/+Monstercat
+Podcast: http://live.monstercat.com/
+
+▼ Want some new Merchandise?
+http://www.monstercat.com/store
+    [label_name] => Monstercat
+    [release] => MCS280
+    [track_type] => original
+    [key_signature] => 
+    [isrc] => 
+    [video_url] => 
+    [bpm] => 
+    [release_year] => 2014
+    [release_month] => 11
+    [release_day] => 12
+    [original_format] => wav
+    [license] => all-rights-reserved
+    [uri] => https://api.soundcloud.com/tracks/177693380
+    [user] => Array
+        (
+            [id] => 8553751
+            [kind] => user
+            [permalink] => monstercat
+            [username] => Monstercat
+            [last_modified] => 2017/05/16 19:14:09 +0000
+            [uri] => https://api.soundcloud.com/users/8553751
+            [permalink_url] => http://soundcloud.com/monstercat
+            [avatar_url] => https://i1.sndcdn.com/avatars-000309637915-o6othx-large.jpg
+        )
+
+    [attachments_uri] => https://api.soundcloud.com/tracks/177693380/attachments
+    [permalink_url] => http://soundcloud.com/monstercat/grant-bowtie-clockwork
+    [artwork_url] => https://i1.sndcdn.com/artworks-000097675936-3bx983-large.jpg
+    [waveform_url] => https://w1.sndcdn.com/PDNfg5EFWJJL_m.png
+    [stream_url] => https://api.soundcloud.com/tracks/177693380/stream
+    [playback_count] => 484827
+    [download_count] => 0
+    [favoritings_count] => 12422
+    [comment_count] => 267
+)
+24=> | 
+Array
+(
+    [kind] => track
+    [id] => 216598981
+    [created_at] => 2015/07/27 19:15:40 +0000
+    [user_id] => 8553751
+    [duration] => 214197
+    [commentable] => 1
+    [state] => finished
+    [original_content_size] => 37772912
+    [last_modified] => 2017/05/29 09:54:47 +0000
+    [sharing] => public
+    [tag_list] => Edm Bass Music Grant Bowtie Tide High Melodic Electronic Dance Monstercat Future
+    [permalink] => grant-bowtie-high-tide
+    [streamable] => 1
+    [embeddable_by] => all
+    [downloadable] => 
+    [purchase_url] => https://itunes.apple.com/us/album/high-tide-single/id1021355627
+    [label_id] => 
+    [purchase_title] => Support on iTunes
+    [genre] => Future Bass
+    [title] => Grant Bowtie - High Tide
+    [description] => Support on iTunes: http://monster.cat/1LP0EKz
+Support on Beatport: http://monster.cat/1MsynZe
+Support on Bandcamp: http://monster.cat/1VJvl6M
+---
+Watch on YouTube: http://monster.cat/1KuMyuy
+Listen on Spotify: http://monster.cat/1OwQyLR
+
+▼ Follow Monstercat
+Snapchat: Monstercat
+YouTube: http://www.youtube.com/Monstercat
+Spotify: http://monster.cat/1hGrCWk
+Facebook: http://facebook.com/Monstercat
+Twitter: http://twitter.com/Monstercat
+Instagram: http://instagram.com/monstercat
+SoundCloud: http://soundcloud.com/Monstercat
+Google+: https://plus.google.com/+Monstercat
+
+▼ Want some new Merchandise?
+http://monster.cat/MonstercatShop
+    [label_name] => Monstercat
+    [release] => 
+    [track_type] => 
+    [key_signature] => 
+    [isrc] => 
+    [video_url] => 
+    [bpm] => 
+    [release_year] => 2015
+    [release_month] => 7
+    [release_day] => 22
+    [original_format] => wav
+    [license] => all-rights-reserved
+    [uri] => https://api.soundcloud.com/tracks/216598981
+    [user] => Array
+        (
+            [id] => 8553751
+            [kind] => user
+            [permalink] => monstercat
+            [username] => Monstercat
+            [last_modified] => 2017/05/16 19:14:09 +0000
+            [uri] => https://api.soundcloud.com/users/8553751
+            [permalink_url] => http://soundcloud.com/monstercat
+            [avatar_url] => https://i1.sndcdn.com/avatars-000309637915-o6othx-large.jpg
+        )
+
+    [attachments_uri] => https://api.soundcloud.com/tracks/216598981/attachments
+    [permalink_url] => http://soundcloud.com/monstercat/grant-bowtie-high-tide
+    [artwork_url] => https://i1.sndcdn.com/artworks-000124530712-h35lij-large.jpg
+    [waveform_url] => https://w1.sndcdn.com/R5dsr4u3T30y_m.png
+    [stream_url] => https://api.soundcloud.com/tracks/216598981/stream
+    [playback_count] => 497621
+    [download_count] => 0
+    [favoritings_count] => 17325
+    [comment_count] => 363
+)
+25=> | 
+Array
+(
+    [kind] => track
+    [id] => 137742421
+    [created_at] => 2014/03/03 19:55:09 +0000
+    [user_id] => 8553751
+    [duration] => 195779
+    [commentable] => 1
+    [state] => finished
+    [original_content_size] => 34523524
+    [last_modified] => 2017/06/25 15:33:58 +0000
+    [sharing] => public
+    [tag_list] => "Grant Bowtie" Reach EDM Future Bass Electronic Trap
+    [permalink] => grant-bowtie-reach
+    [streamable] => 1
+    [embeddable_by] => all
+    [downloadable] => 
+    [purchase_url] => http://msclvr.co/NL6Siz
+    [label_id] => 
+    [purchase_title] => Support on iTunes
+    [genre] => Future Bass
+    [title] => Grant Bowtie - Reach
+    [description] => <b>Why <i>[Follow]</i> our Soundcloud?</b> We generally stream new releases to Soundcloud before anywhere else!&#13;
+&#13;
+<b>Enjoying the tune?</b> Please consider clicking the <i>[Repost]</i> ↻ button!&#13;
+&#13;
+Support on Beatport: http://monster.cat/Nq0wp6&#13;
+Support on iTunes: http://monster.cat/1hDVyA9&#13;
+Support on Bandcamp: http://monster.cat/1dUpq6D&#13;
+---&#13;
+Watch on YouTube: http://monster.cat/1A7FfAL
+Listen on Spotify: http://monster.cat/1e0xqXh&#13;
+&#13;
+▼ Follow Monstercat&#13;
+Snapchat: Monstercat
+YouTube: http://www.youtube.com/Monstercat&#13;
+Spotify: http://monster.cat/1hGrCWk&#13;
+Facebook: http://facebook.com/Monstercat&#13;
+Twitter: http://twitter.com/Monstercat&#13;
+Instagram: http://instagram.com/monstercatagram&#13;
+SoundCloud: http://soundcloud.com/Monstercat&#13;
+Google+: https://plus.google.com/+Monstercat&#13;
+&#13;
+
+▼ Want some new Merchandise?&#13;
+http://www.monstercat.com/store
+    [label_name] => Monstercat
+    [release] => MCS200
+    [track_type] => original
+    [key_signature] => 
+    [isrc] => 
+    [video_url] => 
+    [bpm] => 
+    [release_year] => 2014
+    [release_month] => 2
+    [release_day] => 25
+    [original_format] => wav
+    [license] => all-rights-reserved
+    [uri] => https://api.soundcloud.com/tracks/137742421
+    [user] => Array
+        (
+            [id] => 8553751
+            [kind] => user
+            [permalink] => monstercat
+            [username] => Monstercat
+            [last_modified] => 2017/05/16 19:14:09 +0000
+            [uri] => https://api.soundcloud.com/users/8553751
+            [permalink_url] => http://soundcloud.com/monstercat
+            [avatar_url] => https://i1.sndcdn.com/avatars-000309637915-o6othx-large.jpg
+        )
+
+    [attachments_uri] => https://api.soundcloud.com/tracks/137742421/attachments
+    [permalink_url] => http://soundcloud.com/monstercat/grant-bowtie-reach
+    [artwork_url] => https://i1.sndcdn.com/artworks-000072482729-t4au0g-large.jpg
+    [waveform_url] => https://w1.sndcdn.com/Elud7j0ZaaTm_m.png
+    [stream_url] => https://api.soundcloud.com/tracks/137742421/stream
+    [playback_count] => 708217
+    [download_count] => 0
+    [favoritings_count] => 15046
+    [comment_count] => 799
+)
+26=> | 
+Array
+(
+    [kind] => track
+    [id] => 160986430
+    [created_at] => 2014/07/30 18:23:53 +0000
+    [user_id] => 8553751
+    [duration] => 211559
+    [commentable] => 1
+    [state] => finished
+    [original_content_size] => 37309316
+    [last_modified] => 2017/06/13 04:54:21 +0000
+    [sharing] => public
+    [tag_list] => "Grant Bowtie" Monstercat Bass Melodic Trap Electronic Dance EDM Cloud Nine
+    [permalink] => grant-bowtie-cloud-nine
+    [streamable] => 1
+    [embeddable_by] => all
+    [downloadable] => 
+    [purchase_url] => https://itunes.apple.com/ca/album/cloud-nine/id904189196?i=904189209&ign-mpt=uo%3D4
+    [label_id] => 
+    [purchase_title] => Support on iTunes
+    [genre] => Future Bass
+    [title] => Grant Bowtie - Cloud Nine
+    [description] => Why [Follow] our Soundcloud? We generally stream new releases to Soundcloud before anywhere else!
+
+Enjoying the tune? Please consider clicking the [Repost]↻ button!
+
+Support on iTunes: http://monster.cat/1xAivJq
+Support on Beatport: http://monster.cat/1k7L0xi
+Support on Bandcamp: http://monster.cat/1nJhIow
+---
+Watch on YouTube: http://monster.cat/1D92koR
+Listen on Spotify: http://monster.cat/1yB5LTf
+
+▼ Follow Monstercat
+Snapchat: Monstercat
+YouTube: http://www.youtube.com/Monstercat
+Spotify: http://monster.cat/1hGrCWk
+Facebook: http://facebook.com/Monstercat
+Twitter: http://twitter.com/Monstercat
+Instagram: http://instagram.com/monstercat
+SoundCloud: http://soundcloud.com/Monstercat
+Google+: https://plus.google.com/+Monstercat
+
+▼ Want some new Merchandise?
+http://www.monstercat.com/store
+    [label_name] => Monstercat
+    [release] => MCS249
+    [track_type] => original
+    [key_signature] => 
+    [isrc] => 
+    [video_url] => 
+    [bpm] => 
+    [release_year] => 2014
+    [release_month] => 7
+    [release_day] => 22
+    [original_format] => wav
+    [license] => all-rights-reserved
+    [uri] => https://api.soundcloud.com/tracks/160986430
+    [user] => Array
+        (
+            [id] => 8553751
+            [kind] => user
+            [permalink] => monstercat
+            [username] => Monstercat
+            [last_modified] => 2017/05/16 19:14:09 +0000
+            [uri] => https://api.soundcloud.com/users/8553751
+            [permalink_url] => http://soundcloud.com/monstercat
+            [avatar_url] => https://i1.sndcdn.com/avatars-000309637915-o6othx-large.jpg
+        )
+
+    [attachments_uri] => https://api.soundcloud.com/tracks/160986430/attachments
+    [permalink_url] => http://soundcloud.com/monstercat/grant-bowtie-cloud-nine
+    [artwork_url] => https://i1.sndcdn.com/artworks-000086673520-np77nb-large.jpg
+    [waveform_url] => https://w1.sndcdn.com/A67QRkcpinDe_m.png
+    [stream_url] => https://api.soundcloud.com/tracks/160986430/stream
+    [playback_count] => 1025176
+    [download_count] => 0
+    [favoritings_count] => 23869
+    [comment_count] => 844
+)
+27=> | 
+Array
+(
+    [kind] => track
+    [id] => 324635577
+    [created_at] => 2017/05/26 17:39:47 +0000
+    [user_id] => 3871229
+    [duration] => 216105
+    [commentable] => 1
+    [state] => finished
+    [original_content_size] => 38109344
+    [last_modified] => 2017/06/12 02:22:05 +0000
+    [sharing] => public
+    [tag_list] => Monstercat Grant "Are We Still Young" EDM Electronic Dance Music Bass Melodic Upbeat "Jessi Mason" "Future Bass"
+    [permalink] => grant-are-we-still-young
+    [streamable] => 1
+    [embeddable_by] => all
+    [downloadable] => 
+    [purchase_url] => https://Monstercat.lnk.to/AWSY
+    [label_id] => 
+    [purchase_title] => 🎧  Stream / Download
+    [genre] => Electronic
+    [title] => Grant - Are We Still Young (feat. Jessi Mason)
+    [description] => 🎧  Support on all platforms: https://Monstercat.lnk.to/AWSY
+
+👻 Snapchat: https://www.snapchat.com/add/monstercat
+
+😺  Follow Monstercat
+Snapchat: https://www.snapchat.com/add/monstercat
+YouTube: http://www.youtube.com/Monstercat
+Spotify: http://monster.cat/1hGrCWk
+Facebook: http://facebook.com/Monstercat
+Twitter: http://twitter.com/Monstercat
+Instagram: http://instagram.com/monstercat
+Vine: https://vine.co/monstercat
+SoundCloud: http://soundcloud.com/Monstercat
+Google+: https://plus.google.com/+Monstercat
+Monstercat FM: http://live.monstercat.com
+
+💥 Follow Grant
+Facebook: https://www.facebook.com/callmegrant
+Twitter: https://twitter.com/callme_grant
+Soundcloud: https://soundcloud.com/callmegrant
+YouTube: https://www.youtube.com/callmegrant
+Instagram: https://www.instagram.com/_callmegrant
+
+💥 Follow Jessi Mason
+Facebook: https://www.facebook.com/jessimasonmusic
+Twitter: https://twitter.com/jessi_mason
+Soundcloud: https://soundcloud.com/jessimason
+Instagram: https://www.instagram.com/jessi.mason
+
+🎵  Genre: Future Bass
+
+👕 Want some new Merchandise?
+http://monster.cat/MonstercatShop
+    [label_name] => Monstercat
+    [release] => 
+    [track_type] => 
+    [key_signature] => 
+    [isrc] => 
+    [video_url] => 
+    [bpm] => 
+    [release_year] => 2017
+    [release_month] => 5
+    [release_day] => 25
+    [original_format] => wav
+    [license] => all-rights-reserved
+    [uri] => https://api.soundcloud.com/tracks/324635577
+    [user] => Array
+        (
+            [id] => 3871229
+            [kind] => user
+            [permalink] => callmegrant
+            [username] => Grant
+            [last_modified] => 2017/06/23 19:08:04 +0000
+            [uri] => https://api.soundcloud.com/users/3871229
+            [permalink_url] => http://soundcloud.com/callmegrant
+            [avatar_url] => https://i1.sndcdn.com/avatars-000274989463-4ezfvw-large.jpg
+        )
+
+    [attachments_uri] => https://api.soundcloud.com/tracks/324635577/attachments
+    [permalink_url] => http://soundcloud.com/callmegrant/grant-are-we-still-young
+    [artwork_url] => https://i1.sndcdn.com/artworks-000224494934-ap4s68-large.jpg
+    [waveform_url] => https://w1.sndcdn.com/Hx2XsLyFKu9j_m.png
+    [stream_url] => https://api.soundcloud.com/tracks/324635577/stream
+    [playback_count] => 10092
+    [download_count] => 0
+    [favoritings_count] => 9119
+    [comment_count] => 187
+)
+28=> | 
+Array
+(
+    [kind] => track
+    [id] => 323977085
+    [created_at] => 2017/05/22 20:00:12 +0000
+    [user_id] => 127730701
+    [duration] => 241838
+    [commentable] => 1
+    [state] => finished
+    [original_content_size] => 10362788
+    [last_modified] => 2017/07/03 10:21:14 +0000
+    [sharing] => public
+    [tag_list] => Dubstep Riddim Brostep DSV Audio Nasko M.I.M.E. Game On Electronic Dance Music Bass
+    [permalink] => nasko-game-on
+    [streamable] => 1
+    [embeddable_by] => all
+    [downloadable] => 
+    [purchase_url] => http://edmlead.net/gate/naskogameon
+    [label_id] => 
+    [purchase_title] => Free Download
+    [genre] => Dubstep
+    [title] => Nasko - Game On (ft. M.I.M.E)
+    [description] => // Nasko - Game On (ft. M.I.M.E.) //
+
+Follow Nasko:
+Facebook: facebook.com/official.nasko/
+Twitter: twitter.com/NaskoEDM
+Soundcloud: @iamnasko
+
+Follow M.I.M.E:
+Facebook: facebook.com/TheOnlyMime/
+Twitter: twitter.com/TheOnlyMime
+Soundcloud: @onlymime
+
+Follow DSV Audio:
+Facebook: facebook.com/dsvaudio
+Soundcloud: @dsv-audio
+
+==================================
+Demos: demos@dsvaudio.net
+Contact: contact@dsvaudio.net
+Submissions info: dsvaudio.com/submit.pdf
+==================================
+    [label_name] => DSV Audio
+    [release] => 
+    [track_type] => 
+    [key_signature] => 
+    [isrc] => 
+    [video_url] => 
+    [bpm] => 
+    [release_year] => 
+    [release_month] => 
+    [release_day] => 
+    [original_format] => mp3
+    [license] => all-rights-reserved
+    [uri] => https://api.soundcloud.com/tracks/323977085
+    [user] => Array
+        (
+            [id] => 127730701
+            [kind] => user
+            [permalink] => dsv-audio
+            [username] => DSV Audio
+            [last_modified] => 2017/06/19 20:37:34 +0000
+            [uri] => https://api.soundcloud.com/users/127730701
+            [permalink_url] => http://soundcloud.com/dsv-audio
+            [avatar_url] => https://i1.sndcdn.com/avatars-000319245241-fjvma1-large.jpg
+        )
+
+    [attachments_uri] => https://api.soundcloud.com/tracks/323977085/attachments
+    [permalink_url] => http://soundcloud.com/dsv-audio/nasko-game-on
+    [artwork_url] => https://i1.sndcdn.com/artworks-000223815287-ap2vw6-large.jpg
+    [waveform_url] => https://w1.sndcdn.com/NeaN8LraUtdd_m.png
+    [stream_url] => https://api.soundcloud.com/tracks/323977085/stream
+    [playback_count] => 11397
+    [download_count] => 0
+    [favoritings_count] => 4957
+    [comment_count] => 319
+)
+29=> | 
+Array
+(
+    [kind] => track
+    [id] => 323395904
+    [created_at] => 2017/05/19 14:05:13 +0000
+    [user_id] => 149342664
+    [duration] => 201788
+    [commentable] => 1
+    [state] => finished
+    [original_content_size] => 35649810
+    [last_modified] => 2017/06/06 19:54:53 +0000
+    [sharing] => public
+    [tag_list] => Dance EDM Chill
+    [permalink] => oceansaway
+    [streamable] => 1
+    [embeddable_by] => all
+    [downloadable] => 
+    [purchase_url] => https://epicoslo.lnk.to/SeveroEllusiveOceansAway
+    [label_id] => 
+    [purchase_title] => Stream/Buy
+    [genre] => Electronic
+    [title] => Severo & Ellusive - Oceans Away (feat. Loé)
+    [description] => Add ''Oceans Away'' to your spotify playlist <3 https://open.spotify.com/track/2rGSosx4BWNaJTrnN9tX3U
+
+
+
+Severo: 
+SC: https://soundcloud.com/severoofficial
+FB: https://www.facebook.com/severoofficial/
+IG: https://www.instagram.com/severomusic/
+
+Ellusive:
+
+SC: https://soundcloud.com/iamellusive
+FB: https://www.facebook.com/iamellusive/
+IG: https://www.instagram.com/ellusiveofficial/
+
+Loé
+
+SC: https://soundcloud.com/loemusik
+FB: facebook.com/loemusik
+IG: instagram.com/loemusik
+    [label_name] => 
+    [release] => 
+    [track_type] => 
+    [key_signature] => 
+    [isrc] => 
+    [video_url] => 
+    [bpm] => 
+    [release_year] => 
+    [release_month] => 
+    [release_day] => 
+    [original_format] => wav
+    [license] => all-rights-reserved
+    [uri] => https://api.soundcloud.com/tracks/323395904
+    [user] => Array
+        (
+            [id] => 149342664
+            [kind] => user
+            [permalink] => severoofficial
+            [username] => Severo
+            [last_modified] => 2017/05/19 14:14:21 +0000
+            [uri] => https://api.soundcloud.com/users/149342664
+            [permalink_url] => http://soundcloud.com/severoofficial
+            [avatar_url] => https://i1.sndcdn.com/avatars-000291256474-slwwsw-large.jpg
+        )
+
+    [attachments_uri] => https://api.soundcloud.com/tracks/323395904/attachments
+    [permalink_url] => http://soundcloud.com/severoofficial/oceansaway
+    [artwork_url] => https://i1.sndcdn.com/artworks-000223284841-jgnx8f-large.jpg
+    [waveform_url] => https://w1.sndcdn.com/jj7ALtfslFWr_m.png
+    [stream_url] => https://api.soundcloud.com/tracks/323395904/stream
+    [playback_count] => 4381
+    [download_count] => 0
+    [favoritings_count] => 7490
+    [comment_count] => 85
+)
+30=> | 
+Array
+(
+    [kind] => track
+    [id] => 324121326
+    [created_at] => 2017/05/23 16:27:50 +0000
+    [user_id] => 16069159
+    [duration] => 248890
+    [commentable] => 1
+    [state] => finished
+    [original_content_size] => 9952766
+    [last_modified] => 2017/06/22 09:36:27 +0000
+    [sharing] => public
+    [tag_list] => "Future Bass"
+    [permalink] => jordan-schor-cosmic-feat-nathan-brumley-ncs-release
+    [streamable] => 1
+    [embeddable_by] => all
+    [downloadable] => 
+    [purchase_url] => http://ncs.io/CosmicNS
+    [label_id] => 
+    [purchase_title] => DOWNLOAD / STREAM.
+    [genre] => Dance & EDM
+    [title] => Jordan Schor - Cosmic (feat. Nathan Brumley) [NCS Release]
+    [description] => NCS: Music without limitations. 
+
+🔊 Download/Stream for FREE: ncs.io/CosmicNS
+
+Watch on YouTube: https://youtu.be/LVh4PFKNzMA
+New Music on Spotify → ncs.io/NewMusic
+
+[NCS]
+ • NCS 24/7 Music Radio: http://NCS.io/Radio
+• http://soundcloud.com/NoCopyrightSounds
+• http://instagram.com/NoCopyrightSounds
+• http://facebook.com/NoCopyrightSounds
+• http://twitch.tv/NoCopyrightSounds
+• http://twitter.com/NCSounds
+• http://spoti.fi/NCS
+
+[Jordan Schor] 
+• http://facebook.com/jordanschorofficial
+ • http://soundcloud.com/jordanschormusic 
+
+[Nathan Brumley]
+• http://facebook.com/nathanbrumleysongwriter
+• http://twitter.com/nbrum7770
+    [label_name] => NCS
+    [release] => 
+    [track_type] => 
+    [key_signature] => 
+    [isrc] => 
+    [video_url] => 
+    [bpm] => 
+    [release_year] => 
+    [release_month] => 
+    [release_day] => 
+    [original_format] => mp3
+    [license] => all-rights-reserved
+    [uri] => https://api.soundcloud.com/tracks/324121326
+    [user] => Array
+        (
+            [id] => 16069159
+            [kind] => user
+            [permalink] => nocopyrightsounds
+            [username] => NCS
+            [last_modified] => 2017/06/23 14:48:27 +0000
+            [uri] => https://api.soundcloud.com/users/16069159
+            [permalink_url] => http://soundcloud.com/nocopyrightsounds
+            [avatar_url] => https://i1.sndcdn.com/avatars-000319985625-8i2ie0-large.jpg
+        )
+
+    [attachments_uri] => https://api.soundcloud.com/tracks/324121326/attachments
+    [permalink_url] => http://soundcloud.com/nocopyrightsounds/jordan-schor-cosmic-feat-nathan-brumley-ncs-release
+    [artwork_url] => https://i1.sndcdn.com/artworks-000223973490-k4uqet-large.jpg
+    [waveform_url] => https://w1.sndcdn.com/tC1cbcs7sCPr_m.png
+    [stream_url] => https://api.soundcloud.com/tracks/324121326/stream
+    [playback_count] => 15507
+    [download_count] => 0
+    [favoritings_count] => 6856
+    [comment_count] => 83
+)
+31=> | 
+Array
+(
+    [kind] => track
+    [id] => 324506914
+    [created_at] => 2017/05/25 21:03:55 +0000
+    [user_id] => 3158948
+    [duration] => 274285
+    [commentable] => 1
+    [state] => finished
+    [original_content_size] => 14924005
+    [last_modified] => 2017/06/25 20:26:59 +0000
+    [sharing] => public
+    [tag_list] => Drumstep Bass Heavy Filthy Hybrid Electronic Dance Music "Free Download"
+    [permalink] => bones-noize-affection
+    [streamable] => 1
+    [embeddable_by] => all
+    [downloadable] => 
+    [purchase_url] => https://fanlink.to/mYz
+    [label_id] => 
+    [purchase_title] => Stream or Download
+    [genre] => Dubstep
+    [title] => Bones Noize - Affection
+    [description] => ♫  The Best Playlists on Spotify: http://spotify.aia.ag/AIA_Spotify ♫
+
+Stream or Free Download: https://fanlink.to/mYz
+
+Promos / Submissions: https://aia.ag/Music-Submissions
+--------------------------------------------------------------------------------
+➥ Follow Bones Noize:
+http://soundcloud.com/bonesnoizemusic
+http://facebook.com/bonesnoize
+http://twitter.com/karimgmetal
+http://instagram.com/karimsurvive/
+http://youtube.com/BonesNoizeOfficial
+
+♫ Listen on Spotify:
+http://spotify.aia.ag/AIA_Spotify
+
+♫ Follow AIA:
+https://soundcloud.com/AiAPresents
+https://facebook.com/AiAgency
+https://instagram.com/AiAgency
+https://twitter.comAiAgency
+--------------------------------------------------------------------------------
+Business / Licensing Inquires: licensing@artistintelligence.agency
+
+    [label_name] => 
+    [release] => 
+    [track_type] => original
+    [key_signature] => 
+    [isrc] => 
+    [video_url] => 
+    [bpm] => 
+    [release_year] => 
+    [release_month] => 
+    [release_day] => 
+    [original_format] => mp3
+    [license] => all-rights-reserved
+    [uri] => https://api.soundcloud.com/tracks/324506914
+    [user] => Array
+        (
+            [id] => 3158948
+            [kind] => user
+            [permalink] => dubstep
+            [username] => Dubstep
+            [last_modified] => 2017/06/02 03:38:24 +0000
+            [uri] => https://api.soundcloud.com/users/3158948
+            [permalink_url] => http://soundcloud.com/dubstep
+            [avatar_url] => https://i1.sndcdn.com/avatars-000217483175-jzu5q3-large.jpg
+        )
+
+    [attachments_uri] => https://api.soundcloud.com/tracks/324506914/attachments
+    [permalink_url] => http://soundcloud.com/dubstep/bones-noize-affection
+    [artwork_url] => https://i1.sndcdn.com/artworks-000224368789-cexurb-large.jpg
+    [waveform_url] => https://w1.sndcdn.com/N8Qs5DROIh46_m.png
+    [stream_url] => https://api.soundcloud.com/tracks/324506914/stream
+    [playback_count] => 1395
+    [download_count] => 0
+    [favoritings_count] => 1321
+    [comment_count] => 32
+)
+32=> | 
+Array
+(
+    [kind] => track
+    [id] => 242537760
+    [created_at] => 2016/01/18 11:50:00 +0000
+    [user_id] => 2323997
+    [duration] => 227311
+    [commentable] => 1
+    [state] => finished
+    [original_content_size] => 11625247
+    [last_modified] => 2017/06/27 00:16:33 +0000
+    [sharing] => public
+    [tag_list] => 
+    [permalink] => zomboy-like-a-bitch
+    [streamable] => 1
+    [embeddable_by] => all
+    [downloadable] => 
+    [purchase_url] => http://nsdx.uk/NSDVOL4
+    [label_id] => 
+    [purchase_title] => 
+    [genre] => Dubstep
+    [title] => Like A Bitch
+    [description] => Pre-order Neon Grave EP and get 'Lights Out' now: http://zomboyofficial.com/
+
+'Like A Bitch' is OUT NOW on Never Say Die Vol. 4
+
+Grab your copy here: nsdx.uk/NSDVOL4
+
+Zomboy online:
+http://zomboy.co/z_Website
+http://zomboy.co/z_Facebook
+http://zomboy.co/z_Twitter
+http://zomboy.co/z_Instagram
+http://zomboy.co/z_Snapchat
+http://zomboy.co/z_Merch
+http://zomboy.co/z_Spotify
+http://zomboy.co/z_AppleMusic
+http://zomboy.co/z_SoundCloud
+http://zomboy.co/z_YouTube
+http://zomboy.co/z_Tumblr
+
+http://nsdx.uk/NSD-Official
+
+    [label_name] => Never Say Die Records
+    [release] => 
+    [track_type] => 
+    [key_signature] => 
+    [isrc] => 
+    [video_url] => 
+    [bpm] => 
+    [release_year] => 2016
+    [release_month] => 1
+    [release_day] => 17
+    [original_format] => mp3
+    [license] => all-rights-reserved
+    [uri] => https://api.soundcloud.com/tracks/242537760
+    [user] => Array
+        (
+            [id] => 2323997
+            [kind] => user
+            [permalink] => zomboy
+            [username] => Zomboy
+            [last_modified] => 2017/07/04 10:38:34 +0000
+            [uri] => https://api.soundcloud.com/users/2323997
+            [permalink_url] => http://soundcloud.com/zomboy
+            [avatar_url] => https://i1.sndcdn.com/avatars-000314797936-xcful7-large.jpg
+        )
+
+    [attachments_uri] => https://api.soundcloud.com/tracks/242537760/attachments
+    [permalink_url] => http://soundcloud.com/zomboy/zomboy-like-a-bitch
+    [artwork_url] => https://i1.sndcdn.com/artworks-000143596448-0ria4w-large.jpg
+    [waveform_url] => https://w1.sndcdn.com/Rtv53BoGi06P_m.png
+    [stream_url] => https://api.soundcloud.com/tracks/242537760/stream
+    [playback_count] => 1103472
+    [download_count] => 0
+    [favoritings_count] => 73101
+    [comment_count] => 968
+)
+33=> | 
+Array
+(
+    [kind] => track
+    [id] => 63895124
+    [created_at] => 2012/10/18 16:13:55 +0000
+    [user_id] => 2323997
+    [duration] => 316320
+    [commentable] => 1
+    [state] => finished
+    [original_content_size] => 12771972
+    [last_modified] => 2017/06/02 21:19:02 +0000
+    [sharing] => public
+    [tag_list] => 
+    [permalink] => 01-nuclear-hands-up-1
+    [streamable] => 1
+    [embeddable_by] => all
+    [downloadable] => 
+    [purchase_url] => https://itunes.apple.com/gb/album/the-dead-symphonic-ep/id557265669
+    [label_id] => 
+    [purchase_title] => 
+    [genre] => Dubstep
+    [title] => Nuclear (Hands Up)
+    [description] => Pre-order Neon Grave EP and get 'Lights Out' now: http://zomboyofficial.com/
+
+One year on from his seminal debut, the undead returns for his sophomore extended player.And what a year its been for 23-year-old Joshua Mellody. Having only made his first piece of electronic music six months prior to signing to Never Say Die, Zomboy has well and truly been thrown in at the deep end, and straight onto festival stages worldwide. Remixes for DJ Fresh, Skrillex, Flux Pavilion and Hadouken! have kept the hoards of fans (90,000 and counting) at bay, but the time has come for the follow up E.P of the year.The Dead Symphonic is a snapshot of a producer who is developing his palette at an alarming rate. No tempo is left uncovered as the EP twists and turns through hands-in-the-air drumstep, daft punkesque electro, orchestral interludes and of course, the sonically perfected dubstep for which he has become so well known for.
+Less...
+
+Zomboy online:
+http://zomboy.co/z_Website
+http://zomboy.co/z_Facebook
+http://zomboy.co/z_Twitter
+http://zomboy.co/z_Instagram
+http://zomboy.co/z_Snapchat
+http://zomboy.co/z_Merch
+http://zomboy.co/z_Spotify
+http://zomboy.co/z_AppleMusic
+http://zomboy.co/z_SoundCloud
+http://zomboy.co/z_YouTube
+http://zomboy.co/z_Tumblr
+
+http://nsdx.uk/NSD-Official
+    [label_name] => Never Say Die Records
+    [release] => NSDX028
+    [track_type] => 
+    [key_signature] => 
+    [isrc] => 
+    [video_url] => 
+    [bpm] => 
+    [release_year] => 2012
+    [release_month] => 9
+    [release_day] => 2
+    [original_format] => mp3
+    [license] => all-rights-reserved
+    [uri] => https://api.soundcloud.com/tracks/63895124
+    [user] => Array
+        (
+            [id] => 2323997
+            [kind] => user
+            [permalink] => zomboy
+            [username] => Zomboy
+            [last_modified] => 2017/07/04 10:38:34 +0000
+            [uri] => https://api.soundcloud.com/users/2323997
+            [permalink_url] => http://soundcloud.com/zomboy
+            [avatar_url] => https://i1.sndcdn.com/avatars-000314797936-xcful7-large.jpg
+        )
+
+    [attachments_uri] => https://api.soundcloud.com/tracks/63895124/attachments
+    [permalink_url] => http://soundcloud.com/zomboy/01-nuclear-hands-up-1
+    [artwork_url] => https://i1.sndcdn.com/artworks-000032424610-32jeyp-large.jpg
+    [waveform_url] => https://w1.sndcdn.com/C39WHyc6puIe_m.png
+    [stream_url] => https://api.soundcloud.com/tracks/63895124/stream
+    [playback_count] => 2381709
+    [download_count] => 0
+    [favoritings_count] => 49293
+    [comment_count] => 1896
+)
+34=> | 
+Array
+(
+    [kind] => track
+    [id] => 153576941
+    [created_at] => 2014/06/09 17:42:43 +0000
+    [user_id] => 8553751
+    [duration] => 213675
+    [commentable] => 1
+    [state] => finished
+    [original_content_size] => 37682936
+    [last_modified] => 2017/06/06 04:39:57 +0000
+    [sharing] => public
+    [tag_list] => Pegboard Nerds Monstercat "Here It Comes" Electronic EDM Dance
+    [permalink] => pegboard-nerds-here-it-comes
+    [streamable] => 1
+    [embeddable_by] => all
+    [downloadable] => 
+    [purchase_url] => https://itunes.apple.com/us/album/here-it-comes-single/id887451641
+    [label_id] => 
+    [purchase_title] => Support on iTunes
+    [genre] => Dubstep
+    [title] => Pegboard Nerds - Here It Comes
+    [description] => Nerds by Nature 2016 Spring Tour on Sale NOW at http://www.PegboardNerds.com
+---
+<b>Why <i>[Follow]</i> our Soundcloud?</b> We generally stream new releases to Soundcloud before anywhere else!&#13;
+&#13;
+<b>Enjoying the tune?</b> Please consider clicking the <i>[Repost]</i> ↻ button!&#13;
+&#13;
+Support on Beatport: http://monster.cat/1kebRBa&#13;
+Support on Bandcamp: http://monster.cat/1l10nRE&#13;
+Support on iTunes: http://monster.cat/1oK2wah&#13;
+---&#13;
+Watch on YouTube: http://monster.cat/1EOIjX4
+Listen on Spotify: http://monster.cat/1vbJhZg&#13;
+&#13;
+▼ Follow Monstercat&#13;
+Snapchat: Monstercat
+YouTube: http://www.youtube.com/Monstercat&#13;
+Spotify: http://monster.cat/1hGrCWk&#13;
+Facebook: http://facebook.com/Monstercat&#13;
+Twitter: http://twitter.com/Monstercat&#13;
+Instagram: http://instagram.com/monstercat&#13;
+SoundCloud: http://soundcloud.com/Monstercat&#13;
+Google+: https://plus.google.com/+Monstercat&#13;
+&#13;
+▼ Follow Pegboard Nerds&#13;
+Facebook: http://facebook.com/PegboardNerds&#13;
+Twitter: http://twitter.com/PegboardNerds&#13;
+Soundcloud: https://soundcloud.com/pegboardnerds&#13;
+Youtube: http://youtube.com/user/PegboardNerds&#13;
+&#13;
+▼ Want some new Merchandise?&#13;
+http://www.monstercat.com/store
+    [label_name] => Monstercat
+    [release] => MCS231
+    [track_type] => original
+    [key_signature] => 
+    [isrc] => 
+    [video_url] => 
+    [bpm] => 
+    [release_year] => 2014
+    [release_month] => 6
+    [release_day] => 1
+    [original_format] => wav
+    [license] => all-rights-reserved
+    [uri] => https://api.soundcloud.com/tracks/153576941
+    [user] => Array
+        (
+            [id] => 8553751
+            [kind] => user
+            [permalink] => monstercat
+            [username] => Monstercat
+            [last_modified] => 2017/05/16 19:14:09 +0000
+            [uri] => https://api.soundcloud.com/users/8553751
+            [permalink_url] => http://soundcloud.com/monstercat
+            [avatar_url] => https://i1.sndcdn.com/avatars-000309637915-o6othx-large.jpg
+        )
+
+    [attachments_uri] => https://api.soundcloud.com/tracks/153576941/attachments
+    [permalink_url] => http://soundcloud.com/monstercat/pegboard-nerds-here-it-comes
+    [artwork_url] => https://i1.sndcdn.com/artworks-000081893266-vrqtlp-large.jpg
+    [waveform_url] => https://w1.sndcdn.com/MAdUMlSJozPW_m.png
+    [stream_url] => https://api.soundcloud.com/tracks/153576941/stream
+    [playback_count] => 2340594
+    [download_count] => 0
+    [favoritings_count] => 46172
+    [comment_count] => 2450
+)
+35=> | 
+Array
+(
+    [kind] => track
+    [id] => 317554379
+    [created_at] => 2017/04/13 19:59:07 +0000
+    [user_id] => 3158948
+    [duration] => 217671
+    [commentable] => 1
+    [state] => finished
+    [original_content_size] => 13064360
+    [last_modified] => 2017/04/13 20:00:54 +0000
+    [sharing] => public
+    [tag_list] => Drumstep Bass Heavy Filthy Hybrid Electronic Dance Music "Free Download"
+    [permalink] => eliminate-holly-telekinetic-wild-boyz-remix
+    [streamable] => 1
+    [embeddable_by] => all
+    [downloadable] => 
+    [purchase_url] => https://fanlink.to/j3W
+    [label_id] => 
+    [purchase_title] => Stream or Download
+    [genre] => Dubstep
+    [title] => Eliminate & Holly - Telekinetic (Wild Boyz! Remix)
+    [description] => ♫  The Best Playlists on Spotify: http://spotify.aia.ag/AIA_Spotify ♫
+
+Stream or Free Download: https://fanlink.to/j3W
+
+Promos / Submissions: https://aia.ag/Music-Submissions
+--------------------------------------------------------------------------------
+➥ Follow Wild Boyz!:
+http://soundcloud.com/wldboyz
+http://facebook.com/wldboyz
+http://twitter.com/WLDBOYZ
+http://instagram.com/wldboyz/
+http://youtube.com/wldboyz
+
+➥ Follow Eliminate:
+http://soundcloud.com/eliminatemusic
+http://facebook.com/EliminateDubstep
+http://twitter.com/eliminatemusic
+http://youtube.com/elimiNATEdubstep
+
+➥ Follow Holly:
+http://soundcloud.com/hollyhollys
+http://facebook.com/beatsbyholly
+
+♫ Listen on Spotify:
+http://spotify.aia.ag/AIA_Spotify
+
+♫ Follow AIA:
+https://soundcloud.com/AiAPresents
+https://facebook.com/AiAgency
+https://instagram.com/AiAgency
+https://twitter.comAiAgency
+--------------------------------------------------------------------------------
+Business / Licensing Inquires: licensing@artistintelligence.agency
+
+    [label_name] => 
+    [release] => 
+    [track_type] => original
+    [key_signature] => 
+    [isrc] => 
+    [video_url] => 
+    [bpm] => 
+    [release_year] => 
+    [release_month] => 
+    [release_day] => 
+    [original_format] => mp3
+    [license] => all-rights-reserved
+    [uri] => https://api.soundcloud.com/tracks/317554379
+    [user] => Array
+        (
+            [id] => 3158948
+            [kind] => user
+            [permalink] => dubstep
+            [username] => Dubstep
+            [last_modified] => 2017/06/02 03:38:24 +0000
+            [uri] => https://api.soundcloud.com/users/3158948
+            [permalink_url] => http://soundcloud.com/dubstep
+            [avatar_url] => https://i1.sndcdn.com/avatars-000217483175-jzu5q3-large.jpg
+        )
+
+    [attachments_uri] => https://api.soundcloud.com/tracks/317554379/attachments
+    [permalink_url] => http://soundcloud.com/dubstep/eliminate-holly-telekinetic-wild-boyz-remix
+    [artwork_url] => https://i1.sndcdn.com/artworks-000217673377-0v94z4-large.jpg
+    [waveform_url] => https://w1.sndcdn.com/ywuAyPRn6Quy_m.png
+    [stream_url] => https://api.soundcloud.com/tracks/317554379/stream
+    [playback_count] => 2358
+    [download_count] => 0
+    [favoritings_count] => 2104
+    [comment_count] => 87
+)
+36=> | 
+Array
+(
+    [kind] => track
+    [id] => 45710769
+    [created_at] => 2012/05/08 15:25:16 +0000
+    [user_id] => 856062
+    [duration] => 213806
+    [commentable] => 1
+    [state] => finished
+    [original_content_size] => 56548844
+    [last_modified] => 2017/07/04 18:55:15 +0000
+    [sharing] => public
+    [tag_list] => 
+    [permalink] => skrillex-damian-jr-gong-marley
+    [streamable] => 1
+    [embeddable_by] => all
+    [downloadable] => 
+    [purchase_url] => 
+    [label_id] => 
+    [purchase_title] => 
+    [genre] => Dubstep
+    [title] => Skrillex & Damian 'Jr Gong' Marley - Make It Bun Dem
+    [description] => ©2012 OWSLA/BigBeat. Artwork by ROBOTO.
+    [label_name] => 
+    [release] => 
+    [track_type] => 
+    [key_signature] => 
+    [isrc] => 
+    [video_url] => 
+    [bpm] => 
+    [release_year] => 
+    [release_month] => 
+    [release_day] => 
+    [original_format] => wav
+    [license] => all-rights-reserved
+    [uri] => https://api.soundcloud.com/tracks/45710769
+    [user] => Array
+        (
+            [id] => 856062
+            [kind] => user
+            [permalink] => skrillex
+            [username] => Skrillex
+            [last_modified] => 2017/05/05 21:14:00 +0000
+            [uri] => https://api.soundcloud.com/users/856062
+            [permalink_url] => http://soundcloud.com/skrillex
+            [avatar_url] => https://i1.sndcdn.com/avatars-000138955484-r3yxsu-large.jpg
+        )
+
+    [attachments_uri] => https://api.soundcloud.com/tracks/45710769/attachments
+    [permalink_url] => http://soundcloud.com/skrillex/skrillex-damian-jr-gong-marley
+    [artwork_url] => https://i1.sndcdn.com/artworks-000022989552-dr662l-large.jpg
+    [waveform_url] => https://w1.sndcdn.com/H8s3ZItd3Gf0_m.png
+    [stream_url] => https://api.soundcloud.com/tracks/45710769/stream
+    [playback_count] => 13309768
+    [download_count] => 0
+    [favoritings_count] => 235463
+    [comment_count] => 8507
+)
+37=> | 
+Array
+(
+    [kind] => track
+    [id] => 37436734
+    [created_at] => 2012/02/22 06:22:38 +0000
+    [user_id] => 267945
+    [duration] => 1981018
+    [commentable] => 1
+    [state] => finished
+    [original_content_size] => 48309545
+    [last_modified] => 2016/11/29 15:16:54 +0000
+    [sharing] => public
+    [tag_list] => Lechero "Project X" Dubstep "Dubstape Mix"
+    [permalink] => the-project-x-dubstep-tape
+    [streamable] => 1
+    [embeddable_by] => all
+    [downloadable] => 
+    [purchase_url] => http://www.mediafire.com/?cwt6ycd2czcjvrb
+    [label_id] => 
+    [purchase_title] => 
+    [genre] => Dubstep
+    [title] => The Project X Dubstep Tape
+    [description] => Inspired by: Project X | In theaters March 2nd
+
+external link: http://www.mediafire.com/?cwt6ycd2czcjvrb or click on BUY THIS TRACK, it will redirect you to the DL link.
+
+www.one20eight.com | www.twitter.com/djlechero
+    [label_name] => 
+    [release] => 
+    [track_type] => live
+    [key_signature] => 
+    [isrc] => 
+    [video_url] => 
+    [bpm] => 140
+    [release_year] => 
+    [release_month] => 
+    [release_day] => 
+    [original_format] => mp3
+    [license] => all-rights-reserved
+    [uri] => https://api.soundcloud.com/tracks/37436734
+    [user] => Array
+        (
+            [id] => 267945
+            [kind] => user
+            [permalink] => lechero
+            [username] => Lechero
+            [last_modified] => 2016/07/21 18:48:58 +0000
+            [uri] => https://api.soundcloud.com/users/267945
+            [permalink_url] => http://soundcloud.com/lechero
+            [avatar_url] => https://i1.sndcdn.com/avatars-000015096948-mn7oto-large.jpg
+        )
+
+    [attachments_uri] => https://api.soundcloud.com/tracks/37436734/attachments
+    [permalink_url] => http://soundcloud.com/lechero/the-project-x-dubstep-tape
+    [artwork_url] => https://i1.sndcdn.com/artworks-000018781677-101p8g-large.jpg
+    [waveform_url] => https://w1.sndcdn.com/9LitEAaxrI5K_m.png
+    [stream_url] => https://api.soundcloud.com/tracks/37436734/stream
+    [playback_count] => 192163
+    [download_count] => 107
+    [favoritings_count] => 3665
+    [comment_count] => 223
+)
+38=> | 
+Array
+(
+    [kind] => track
+    [id] => 185088507
+    [created_at] => 2015/01/08 18:34:34 +0000
+    [user_id] => 15540411
+    [duration] => 3985090
+    [commentable] => 1
+    [state] => finished
+    [original_content_size] => 159387766
+    [last_modified] => 2017/06/25 14:25:23 +0000
+    [sharing] => public
+    [tag_list] => "brutal dubstep mix 2015" "alex mtch"
+    [permalink] => best-brutal-dubstep-mix-2015-best-dubstep-drops
+    [streamable] => 1
+    [embeddable_by] => all
+    [downloadable] => 
+    [purchase_url] => https://alexmtch.toneden.io/spotlight/best-brutal-dubstep-mix-2015-best-dubstep-drops
+    [label_id] => 
+    [purchase_title] => 
+    [genre] => dubstep mix 2015
+    [title] => Best Brutal Dubstep Mix 2015 [BEST DUBSTEP DROPS] [BUY=FREE DOWNLOAD]
+    [description] => 
+    [label_name] => 
+    [release] => 
+    [track_type] => 
+    [key_signature] => 
+    [isrc] => 
+    [video_url] => 
+    [bpm] => 
+    [release_year] => 
+    [release_month] => 
+    [release_day] => 
+    [original_format] => mp3
+    [license] => all-rights-reserved
+    [uri] => https://api.soundcloud.com/tracks/185088507
+    [user] => Array
+        (
+            [id] => 15540411
+            [kind] => user
+            [permalink] => alexmtch
+            [username] => Alex MTCH
+            [last_modified] => 2017/01/20 00:00:05 +0000
+            [uri] => https://api.soundcloud.com/users/15540411
+            [permalink_url] => http://soundcloud.com/alexmtch
+            [avatar_url] => https://i1.sndcdn.com/avatars-000287024921-fzyxpg-large.jpg
+        )
+
+    [attachments_uri] => https://api.soundcloud.com/tracks/185088507/attachments
+    [permalink_url] => http://soundcloud.com/alexmtch/best-brutal-dubstep-mix-2015-best-dubstep-drops
+    [artwork_url] => https://i1.sndcdn.com/artworks-000102691093-vavuv8-large.jpg
+    [waveform_url] => https://w1.sndcdn.com/45ZRsBpLALaA_m.png
+    [stream_url] => https://api.soundcloud.com/tracks/185088507/stream
+    [playback_count] => 1061286
+    [download_count] => 306
+    [favoritings_count] => 24267
+    [comment_count] => 1672
+)
+39=> | 
+Array
+(
+    [kind] => track
+    [id] => 57809396
+    [created_at] => 2012/08/28 01:07:49 +0000
+    [user_id] => 3158948
+    [duration] => 245749
+    [commentable] => 1
+    [state] => finished
+    [original_content_size] => 9899277
+    [last_modified] => 2017/07/05 07:21:18 +0000
+    [sharing] => public
+    [tag_list] => Dubstep DUB-STEP Dub Step Bass BassMusic Music DubstepUS DubstepUK Drum Drumstep House Techno EDM Dance Electro Electronic Beats Moombah MOOMBAHTON Electro-House Vocal Lovestep "Bullet Train" "Stephen Swartz" "Joni Fatora" Sexy Chill Melodic Anthem
+    [permalink] => bullet-train-by-stephen-swartz
+    [streamable] => 1
+    [embeddable_by] => all
+    [downloadable] => 
+    [purchase_url] => https://itunes.apple.com/us/album/bullet-train-feat.-joni-fatora/id540189001?uo=4&at=11lHt7
+    [label_id] => 
+    [purchase_title] => 
+    [genre] => Dubstep
+    [title] => Bullet Train by Stephen Swartz ft. Joni Fatora
+    [description] => Full Description on Dubstep.NET : 
+
+Buy it Now: https://itunes.apple.com/us/album/bullet-train-feat.-joni-fatora/id540189001?uo=4&at=11lHt7
+------------------------------------------------------------------------------------------------------------------
+Follow Stephen Swartz:
+http://www.facebook.com/StephenSwartzMusic
+https://twitter.com/SwartzMusic
+SC: http://soundcloud.com/stephenswartzmusic
+
+Follow us @ http://www.Dubstep.NET
+
+Sounds like: Skrillex, Kill The Noise, Feed Me, Excision, Datsik, Downlink, Flux Pavilion, Doctor P, Funtcase, Stenchman, Cookie Monsta, Knife Party, Adventure Club, Nero, Bassnectar, Noisia, Zeds Dead, NiT GriT, DeadMau5, Dubstep, Drumstep, Minnesota, Dance Music, Bass, Bare Noize, Skream, Play Me, Rottun, Never Say Die, Heavy Artillery, OWSLA, and Mau5trap
+    [label_name] => 
+    [release] => 
+    [track_type] => original
+    [key_signature] => 
+    [isrc] => 
+    [video_url] => http://youtu.be/X5NjFS5Yz_E
+    [bpm] => 
+    [release_year] => 
+    [release_month] => 
+    [release_day] => 
+    [original_format] => mp3
+    [license] => all-rights-reserved
+    [uri] => https://api.soundcloud.com/tracks/57809396
+    [user] => Array
+        (
+            [id] => 3158948
+            [kind] => user
+            [permalink] => dubstep
+            [username] => Dubstep
+            [last_modified] => 2017/06/02 03:38:24 +0000
+            [uri] => https://api.soundcloud.com/users/3158948
+            [permalink_url] => http://soundcloud.com/dubstep
+            [avatar_url] => https://i1.sndcdn.com/avatars-000217483175-jzu5q3-large.jpg
+        )
+
+    [attachments_uri] => https://api.soundcloud.com/tracks/57809396/attachments
+    [permalink_url] => http://soundcloud.com/dubstep/bullet-train-by-stephen-swartz
+    [artwork_url] => https://i1.sndcdn.com/artworks-000029242952-fih8a5-large.jpg
+    [waveform_url] => https://w1.sndcdn.com/iv0dk3NTvxIr_m.png
+    [stream_url] => https://api.soundcloud.com/tracks/57809396/stream
+    [playback_count] => 13772772
+    [download_count] => 85540
+    [favoritings_count] => 236905
+    [comment_count] => 5982
+)
+40=> | 
+Array
+(
+    [kind] => track
+    [id] => 319590554
+    [created_at] => 2017/04/26 16:29:01 +0000
+    [user_id] => 235664382
+    [duration] => 1936141
+    [commentable] => 1
+    [state] => finished
+    [original_content_size] => 77902650
+    [last_modified] => 2017/05/15 14:31:26 +0000
+    [sharing] => public
+    [tag_list] => Electronic "Deep House" House Pop Funk "Tropical House"
+    [permalink] => dancing-pineapple-artist-showcase-series-gigamesh
+    [streamable] => 1
+    [embeddable_by] => all
+    [downloadable] => 
+    [purchase_url] => 
+    [label_id] => 
+    [purchase_title] => 
+    [genre] => Feel Good
+    [title] => Dancing Pineapple Artist Showcase Series: Gigamesh
+    [description] => Did anyone else feel like April came and gone? Time flies when you’re having fun! Today is no different. We are honored to present you our next installment in the Artist Showcase Series. You may have first heard of him with his flawless remix of Fleetwood Mac’s Dreams. Now with a full album and a handful of singles, you can find him at the Brooklyn Bowl in New York for his summer residency. We have been big fans of this guy for quite some time, so it’s our pleasure to present 30 minutes of pure Gigamesh.
+
+[The Artist Showcase Series features mixes composed entirely of the artist's own tracks. A true showcase of talent.]
+
+TRACKLIST:
+??? - ??? (Gigamesh Remix)
+Grouplove - Welcome To Your Life (Gigamesh Remix)
+Kindness - Gee Up (Gigamesh Remix)
+Gavin Turek - Good Look For You (Gigamesh Remix)
+Goldroom - Back To You (Gigamesh Remix)
+Gigamesh - The Music
+James Curd - Guide Me (Gigamesh Remix)
+Gigamesh - Work ft. Kaleena Zanders
+
+Follow Gigamesh:
+▶ Soundcloud: @gigamesh
+▶ Facebook: www.facebook.com/gigamesh
+▶ Twitter: twitter.com/gigamesh
+
+Follow Dancing Pineapple
+▶ Facebook: www.facebook.com/dancingpineapple
+▶ SoundCloud: @dancingpineapple
+▶ Instagram: www.instagram.com/dancingpineapplemusic
+▶ Snapchat: @dancingpina
+    [label_name] => 
+    [release] => 
+    [track_type] => 
+    [key_signature] => 
+    [isrc] => 
+    [video_url] => 
+    [bpm] => 
+    [release_year] => 
+    [release_month] => 
+    [release_day] => 
+    [original_format] => mp3
+    [license] => cc-by-nc-nd
+    [uri] => https://api.soundcloud.com/tracks/319590554
+    [user] => Array
+        (
+            [id] => 235664382
+            [kind] => user
+            [permalink] => dancingpineapple-mixes
+            [username] => Dancing Pineapple Mixes
+            [last_modified] => 2017/07/01 18:15:53 +0000
+            [uri] => https://api.soundcloud.com/users/235664382
+            [permalink_url] => http://soundcloud.com/dancingpineapple-mixes
+            [avatar_url] => https://i1.sndcdn.com/avatars-000321338765-nb50wa-large.jpg
+        )
+
+    [attachments_uri] => https://api.soundcloud.com/tracks/319590554/attachments
+    [permalink_url] => http://soundcloud.com/dancingpineapple-mixes/dancing-pineapple-artist-showcase-series-gigamesh
+    [artwork_url] => https://i1.sndcdn.com/artworks-000219799148-sfz0n2-large.jpg
+    [waveform_url] => https://w1.sndcdn.com/btwTxfQGj5KN_m.png
+    [stream_url] => https://api.soundcloud.com/tracks/319590554/stream
+    [playback_count] => 1203
+    [download_count] => 0
+    [favoritings_count] => 3276
+    [comment_count] => 78
+)
+41=> | 
+Array
+(
+    [kind] => track
+    [id] => 321413529
+    [created_at] => 2017/05/07 15:31:16 +0000
+    [user_id] => 59744958
+    [duration] => 198078
+    [commentable] => 1
+    [state] => finished
+    [original_content_size] => 34927346
+    [last_modified] => 2017/07/03 17:02:10 +0000
+    [sharing] => public
+    [tag_list] => "Jey Vazz" "Do It" Spotify
+    [permalink] => jey-vazz-do-it-1
+    [streamable] => 1
+    [embeddable_by] => all
+    [downloadable] => 
+    [purchase_url] => http://illicitlabel.com/track/jeyvazzdoit
+    [label_id] => 
+    [purchase_title] => Free Download
+    [genre] => Electronic
+    [title] => Do It
+    [description] => Hope you like this one.
+
+Stream: https://open.spotify.com/track/1X0hHKtsnXq7Muudcu00QL
+
+s/o to @illicitofficial
+
+<a href="https://theartistunion.com/tracks/1341cc" rel="nofollow" target="_blank">Download for free on The Artist Union</a>
+    [label_name] => 
+    [release] => 
+    [track_type] => 
+    [key_signature] => 
+    [isrc] => 
+    [video_url] => 
+    [bpm] => 
+    [release_year] => 
+    [release_month] => 
+    [release_day] => 
+    [original_format] => wav
+    [license] => all-rights-reserved
+    [uri] => https://api.soundcloud.com/tracks/321413529
+    [user] => Array
+        (
+            [id] => 59744958
+            [kind] => user
+            [permalink] => jeyvazzmusic
+            [username] => Jey Vazz
+            [last_modified] => 2017/07/01 10:38:40 +0000
+            [uri] => https://api.soundcloud.com/users/59744958
+            [permalink_url] => http://soundcloud.com/jeyvazzmusic
+            [avatar_url] => https://i1.sndcdn.com/avatars-000316725608-daaa8l-large.jpg
+        )
+
+    [attachments_uri] => https://api.soundcloud.com/tracks/321413529/attachments
+    [permalink_url] => http://soundcloud.com/jeyvazzmusic/jey-vazz-do-it-1
+    [artwork_url] => https://i1.sndcdn.com/artworks-000221491018-1w8nrk-large.jpg
+    [waveform_url] => https://w1.sndcdn.com/wFdZcdzsT3A7_m.png
+    [stream_url] => https://api.soundcloud.com/tracks/321413529/stream
+    [playback_count] => 9726
+    [download_count] => 0
+    [favoritings_count] => 2320
+    [comment_count] => 127
+)
+42=> | 
+Array
+(
+    [kind] => track
+    [id] => 321006798
+    [created_at] => 2017/05/04 21:38:03 +0000
+    [user_id] => 11797934
+    [duration] => 207430
+    [commentable] => 1
+    [state] => finished
+    [original_content_size] => 13670229
+    [last_modified] => 2017/07/02 12:26:10 +0000
+    [sharing] => public
+    [tag_list] => skrillex habstrakt
+    [permalink] => skrillex-habstrakt-chicken-soup-1
+    [streamable] => 1
+    [embeddable_by] => all
+    [downloadable] => 
+    [purchase_url] => 
+    [label_id] => 
+    [purchase_title] => 
+    [genre] => House
+    [title] => Skrillex & Habstrakt - Chicken Soup
+    [description] => Stream “Chicken Soup”:
+Spotify - http://smarturl.it/HOWSLA_SP
+Apple Music - http://smarturl.it/HOWSLA_AM
+YouTube - http://smarturl.it/HOWSLA_YT
+Google Play - http://smarturl.it/HOWSLA_GP
+
+Download “Chicken Soup”:
+iTunes - http://smarturl.it/HOWSLA_iT 
+Google Play - http://smarturl.it/HOWSLA_GP
+
+Skrillex & Habstrakt “Chicken Soup”
+Featured in “HOWSLA” compilation - OWSLA
+Subscribe to the Skrillex channel on YouTube to stay up to date with the latest videos.
+
+Follow Skrillex:
+✚ http://fb.com/skrillex
+✚ http://twitter.com/skrillex
+✚ http://instagram.com/skrillex
+✚ http://soundcloud.com/skrillex
+✚ http://skrillex.com
+
+Follow Habstrakt:
+✚ https://facebook.com/Habstrakt
+✚ https://twitter.com/habstrakt
+✚ https://soundcloud.com/adam-habstrakt
+✚ https://www.instagram.com/habstrakt/
+
+Lyrics: 
+Spice girl in the coop 
+So sick chicken soup 
+Walk in kill the room 
+So sick chicken soup (x3) 
+Chicken soup x5 
+
+Spice girl in the coop 
+
+Spice girl in the coop 
+So sick chicken soup 
+Walk in kill the room 
+So sick chicken soup (x4) 
+Chicken soup x7 
+Chicken x8
+
+Spice girl in the coop 
+Spice girl in the coop 
+So sick chicken soup 
+Walk in kill the room
+So sick chicken soup (x2) 
+
+Chicken soup x4
+
+Out Now on OWSLA
+    [label_name] => 
+    [release] => 
+    [track_type] => 
+    [key_signature] => 
+    [isrc] => 
+    [video_url] => 
+    [bpm] => 
+    [release_year] => 
+    [release_month] => 
+    [release_day] => 
+    [original_format] => mp3
+    [license] => all-rights-reserved
+    [uri] => https://api.soundcloud.com/tracks/321006798
+    [user] => Array
+        (
+            [id] => 11797934
+            [kind] => user
+            [permalink] => owslaofficial
+            [username] => OWSLA
+            [last_modified] => 2017/06/16 22:44:43 +0000
+            [uri] => https://api.soundcloud.com/users/11797934
+            [permalink_url] => http://soundcloud.com/owslaofficial
+            [avatar_url] => https://i1.sndcdn.com/avatars-000046398941-0y0cfi-large.jpg
+        )
+
+    [attachments_uri] => https://api.soundcloud.com/tracks/321006798/attachments
+    [permalink_url] => http://soundcloud.com/owslaofficial/skrillex-habstrakt-chicken-soup-1
+    [artwork_url] => https://i1.sndcdn.com/artworks-000221096663-f93s1b-large.jpg
+    [waveform_url] => https://w1.sndcdn.com/vtg5heTsQjbF_m.png
+    [stream_url] => https://api.soundcloud.com/tracks/321006798/stream
+    [playback_count] => 57740
+    [download_count] => 0
+    [favoritings_count] => 51390
+    [comment_count] => 683
+)
+43=> | 
+Array
+(
+    [kind] => track
+    [id] => 319869249
+    [created_at] => 2017/04/28 08:49:47 +0000
+    [user_id] => 19766339
+    [duration] => 3517193
+    [commentable] => 1
+    [state] => finished
+    [original_content_size] => 141543442
+    [last_modified] => 2017/05/09 15:51:15 +0000
+    [sharing] => public
+    [tag_list] => EDM R3hab Hallucinations "R I T U A L" "Cuebrick " Karra Yuna MYRNE "No ID" Grandtheft "Delaney Jane" "Axwell " Ingrosso "Kid Ink" "L Tric" "Double Pleasure" "Late Nate Alumni" Kaskade "Plump DJs" LocoTric RavenKiss "Dillon Francis" Gorillaz "Mavis Staples" "Pusha T" Sakura
+    [permalink] => r3hab-i-need-r3hab-240-r3hab-hallucinations-ft-r-i-t-u-a-l-out-now
+    [streamable] => 1
+    [embeddable_by] => all
+    [downloadable] => 
+    [purchase_url] => http://www.bit.ly/r3hab-spotify
+    [label_id] => 
+    [purchase_title] => Follow me on Spotify
+    [genre] => Dance & EDM
+    [title] => R3HAB - I NEED R3HAB 240 (R3hab - Hallucinations ft. R I T U A L *OUT NOW*)
+    [description] => R3HAB - I NEED R3HAB 240
+
+R3hab - Hallucinations ft. R I T U A L
+www.smarturl.it/hallucinations
+
+Follow @ R3hab:
+
+www.facebook.com/r3hab
+www.instagram.com/r3hab
+www.twitter.com/r3hab
+www.youtube.com/r3hab
+Spotify: www.bit.ly/r3hab-spotify
+Snapchat: r3hab-official
+    [label_name] => 
+    [release] => 
+    [track_type] => 
+    [key_signature] => 
+    [isrc] => 
+    [video_url] => 
+    [bpm] => 
+    [release_year] => 
+    [release_month] => 
+    [release_day] => 
+    [original_format] => mp3
+    [license] => all-rights-reserved
+    [uri] => https://api.soundcloud.com/tracks/319869249
+    [user] => Array
+        (
+            [id] => 19766339
+            [kind] => user
+            [permalink] => ineedr3hab
+            [username] => R3HAB - I NEED R3HAB
+            [last_modified] => 2017/06/30 10:29:32 +0000
+            [uri] => https://api.soundcloud.com/users/19766339
+            [permalink_url] => http://soundcloud.com/ineedr3hab
+            [avatar_url] => https://i1.sndcdn.com/avatars-000319837779-tl7nuy-large.jpg
+        )
+
+    [attachments_uri] => https://api.soundcloud.com/tracks/319869249/attachments
+    [permalink_url] => http://soundcloud.com/ineedr3hab/r3hab-i-need-r3hab-240-r3hab-hallucinations-ft-r-i-t-u-a-l-out-now
+    [artwork_url] => https://i1.sndcdn.com/artworks-000220059350-rjgz97-large.jpg
+    [waveform_url] => https://w1.sndcdn.com/D8E2jOLfZi2o_m.png
+    [stream_url] => https://api.soundcloud.com/tracks/319869249/stream
+    [playback_count] => 910
+    [download_count] => 0
+    [favoritings_count] => 1127
+    [comment_count] => 22
+)
